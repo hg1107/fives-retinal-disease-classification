@@ -1,4 +1,5 @@
 # Retinal disease classification on FIVES with classical machine learning
+**Live demo:** [minor-retinal-disease-classification.streamlit.app](https://minor-retinal-disease-classification.streamlit.app/)
 
 Four-class classification of colour fundus photographs: **Normal, AMD (age-related macular degeneration), Diabetic Retinopathy (DR), Glaucoma**.
 Images are turned into numeric features (colour, texture, vessel and bright-region descriptors, plus ResNet50 embeddings) and classified with
@@ -123,3 +124,4 @@ fives-project/
 - Small data: 594 training and 199 test images, so one test-recall value has a standard error of roughly 0.07. One train/test partition and one CV seed.
 - The `handcrafted_norm` experiment was motivated by diagnostics that looked at test features; model selection itself used CV only.
 - Not a medical device; for coursework only.
+
