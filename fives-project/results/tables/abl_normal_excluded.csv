@@ -1,0 +1,3 @@
+model,macro_f1_3cls,recall_AMD,recall_Diabetic Retinopathy,recall_Glaucoma,cv_recall_AMD,cv_recall_Diabetic Retinopathy,cv_recall_Glaucoma,cv_macro_f1_3cls
+"final 4-class, scored on non-Normal test images",0.7599409656335653,0.673469387755102,0.7,0.8,0.6944444444444444,0.6533333333333333,0.7933333333333333,
+3-class (Normal removed from train and test),0.7722176945042628,0.6938775510204082,0.74,0.88,0.7291666666666666,0.7133333333333334,0.82,0.752836062433841

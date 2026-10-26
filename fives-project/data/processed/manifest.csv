@@ -1,0 +1,794 @@
+image_path,mask_path,image_id,label_letter,label_name,label_id,official_split,width,height,blur_score,brightness,contrast
+test/Original/1_A.png,test/Ground truth/1_A.png,test_1_A,A,AMD,1,test,2048,2048,2.7831058501460575,36.678035736083984,27.018775391358623
+test/Original/2_A.png,test/Ground truth/2_A.png,test_2_A,A,AMD,1,test,2048,2048,8.64368074717953,39.38442301750183,29.134962294953656
+test/Original/3_A.png,test/Ground truth/3_A.png,test_3_A,A,AMD,1,test,2048,2048,9.92590837139505,50.362298250198364,33.80753785903208
+test/Original/4_A.png,test/Ground truth/4_A.png,test_4_A,A,AMD,1,test,2048,2048,9.782203430040624,56.89100384712219,34.988306074242935
+test/Original/5_A.png,test/Ground truth/5_A.png,test_5_A,A,AMD,1,test,2048,2048,8.576199742832102,56.869680881500244,37.53657961389497
+test/Original/6_A.png,test/Ground truth/6_A.png,test_6_A,A,AMD,1,test,2048,2048,9.436404389215967,57.504133462905884,36.06006983146394
+test/Original/7_A.png,test/Ground truth/7_A.png,test_7_A,A,AMD,1,test,2048,2048,9.398939676288133,58.527254581451416,38.06287747282003
+test/Original/8_A.png,test/Ground truth/8_A.png,test_8_A,A,AMD,1,test,2048,2048,4.226074695587158,53.078784465789795,33.3203956879821
+test/Original/9_A.png,test/Ground truth/9_A.png,test_9_A,A,AMD,1,test,2048,2048,10.663794988238802,51.11411190032959,32.06939790288027
+test/Original/10_A.png,test/Ground truth/10_A.png,test_10_A,A,AMD,1,test,2048,2048,12.889911729021549,66.08309006690979,39.81007002864901
+test/Original/11_A.png,test/Ground truth/11_A.png,test_11_A,A,AMD,1,test,2048,2048,9.550113020633717,85.77847242355347,49.23477490059918
+test/Original/12_A.png,test/Ground truth/12_A.png,test_12_A,A,AMD,1,test,2048,2048,8.344479620225457,69.3680248260498,42.09668757103862
+test/Original/13_A.png,test/Ground truth/13_A.png,test_13_A,A,AMD,1,test,2048,2048,9.759843343636021,94.93042039871216,53.58990840217726
+test/Original/14_A.png,test/Ground truth/14_A.png,test_14_A,A,AMD,1,test,2048,2048,9.492110490757511,79.70988082885742,45.522987692314196
+test/Original/15_A.png,test/Ground truth/15_A.png,test_15_A,A,AMD,1,test,2048,2048,9.8034934997047,59.732664585113525,35.59490926910091
+test/Original/16_A.png,test/Ground truth/16_A.png,test_16_A,A,AMD,1,test,2048,2048,10.38018755214847,92.15967869758606,52.09635802431026
+test/Original/17_A.png,test/Ground truth/17_A.png,test_17_A,A,AMD,1,test,2048,2048,11.399900666740846,51.99577331542969,32.93831836570261
+test/Original/18_A.png,test/Ground truth/18_A.png,test_18_A,A,AMD,1,test,2048,2048,8.158961457087061,44.604037046432495,27.08195035422954
+test/Original/19_A.png,test/Ground truth/19_A.png,test_19_A,A,AMD,1,test,2048,2048,8.808531698976141,50.91315698623657,31.729564201725218
+test/Original/20_A.png,test/Ground truth/20_A.png,test_20_A,A,AMD,1,test,2048,2048,10.80861148786829,72.27663564682007,43.63652115791546
+test/Original/21_A.png,test/Ground truth/21_A.png,test_21_A,A,AMD,1,test,2048,2048,10.559644221620832,88.92717981338501,50.53762374844475
+test/Original/22_A.png,test/Ground truth/22_A.png,test_22_A,A,AMD,1,test,2048,2048,9.545262551939175,76.91155886650085,45.296442098479886
+test/Original/23_A.png,test/Ground truth/23_A.png,test_23_A,A,AMD,1,test,2048,2048,9.577082849180385,77.80621242523193,45.54538794439736
+test/Original/24_A.png,test/Ground truth/24_A.png,test_24_A,A,AMD,1,test,2048,2048,9.275958236128588,83.63382482528687,50.03885160631422
+test/Original/25_A.png,test/Ground truth/25_A.png,test_25_A,A,AMD,1,test,2048,2048,11.27575039831612,75.71321153640747,46.301468739959
+test/Original/26_A.png,test/Ground truth/26_A.png,test_26_A,A,AMD,1,test,2048,2048,8.31317710543567,62.70288419723511,39.23473704688479
+test/Original/27_A.png,test/Ground truth/27_A.png,test_27_A,A,AMD,1,test,2048,2048,8.964025584642457,52.58741497993469,34.29959061539115
+test/Original/28_A.png,test/Ground truth/28_A.png,test_28_A,A,AMD,1,test,2048,2048,10.578277109128972,84.93944048881531,48.50718847216858
+test/Original/29_A.png,test/Ground truth/29_A.png,test_29_A,A,AMD,1,test,2048,2048,9.456409203636156,68.26693296432495,41.22605114200817
+test/Original/30_A.png,test/Ground truth/30_A.png,test_30_A,A,AMD,1,test,2048,2048,9.895049772467189,56.70687484741211,34.429585045829874
+test/Original/31_A.png,test/Ground truth/31_A.png,test_31_A,A,AMD,1,test,2048,2048,8.001676082228869,53.43397521972656,33.87378803734878
+test/Original/32_A.png,test/Ground truth/32_A.png,test_32_A,A,AMD,1,test,2048,2048,9.114409906854918,73.57910227775574,43.71292154351968
+test/Original/33_A.png,test/Ground truth/33_A.png,test_33_A,A,AMD,1,test,2048,2048,10.524292764948765,85.1583149433136,49.921519529967775
+test/Original/34_A.png,test/Ground truth/34_A.png,test_34_A,A,AMD,1,test,2048,2048,8.979916800818444,88.99452638626099,52.99416167639254
+test/Original/35_A.png,test/Ground truth/35_A.png,test_35_A,A,AMD,1,test,2048,2048,10.933992380541671,51.672425985336304,32.445485333232604
+test/Original/36_A.png,test/Ground truth/36_A.png,test_36_A,A,AMD,1,test,2048,2048,7.965132472510447,71.54051852226257,41.26518560693061
+test/Original/37_A.png,test/Ground truth/37_A.png,test_37_A,A,AMD,1,test,2048,2048,8.278366615213544,81.87677788734436,48.642494869084594
+test/Original/38_A.png,test/Ground truth/38_A.png,test_38_A,A,AMD,1,test,2048,2048,7.194246485405926,83.36754035949707,49.73260634547218
+test/Original/39_A.png,test/Ground truth/39_A.png,test_39_A,A,AMD,1,test,2048,2048,10.577468381135759,86.89610075950623,50.497097898106134
+test/Original/40_A.png,test/Ground truth/40_A.png,test_40_A,A,AMD,1,test,2048,2048,9.540971334411948,74.6726815700531,44.35276159390167
+test/Original/41_A.png,test/Ground truth/41_A.png,test_41_A,A,AMD,1,test,2048,2048,9.681146839727205,81.76983451843262,47.23325170638592
+test/Original/42_A.png,test/Ground truth/42_A.png,test_42_A,A,AMD,1,test,2048,2048,8.22197216140688,45.414933919906616,30.052297946933944
+test/Original/43_A.png,test/Ground truth/43_A.png,test_43_A,A,AMD,1,test,2048,2048,10.581135506316457,71.60669493675232,47.02529135142311
+test/Original/44_A.png,test/Ground truth/44_A.png,test_44_A,A,AMD,1,test,2048,2048,9.338396070895897,110.96380996704102,64.58667147670066
+test/Original/45_A.png,test/Ground truth/45_A.png,test_45_A,A,AMD,1,test,2048,2048,9.935694693806,99.34628891944885,57.561953689632645
+test/Original/46_A.png,test/Ground truth/46_A.png,test_46_A,A,AMD,1,test,2048,2048,7.901270126151701,86.29249382019043,50.819938678797904
+test/Original/47_A.png,test/Ground truth/47_A.png,test_47_A,A,AMD,1,test,2048,2048,9.353416161130497,55.08532905578613,39.19415472820284
+test/Original/49_A.png,test/Ground truth/49_A.png,test_49_A,A,AMD,1,test,2048,2048,10.27922078263731,44.47301959991455,28.188771427644248
+test/Original/50_A.png,test/Ground truth/50_A.png,test_50_A,A,AMD,1,test,2048,2048,8.848385564524904,54.62760043144226,35.29055048900699
+test/Original/51_D.png,test/Ground truth/51_D.png,test_51_D,D,Diabetic Retinopathy,2,test,2048,2048,7.023084402071561,43.22085642814636,26.87248734140026
+test/Original/52_D.png,test/Ground truth/52_D.png,test_52_D,D,Diabetic Retinopathy,2,test,2048,2048,10.153332709603093,47.61655330657959,28.585197469387815
+test/Original/53_D.png,test/Ground truth/53_D.png,test_53_D,D,Diabetic Retinopathy,2,test,2048,2048,3.5532002448890125,31.652179479599,23.742855662961862
+test/Original/54_D.png,test/Ground truth/54_D.png,test_54_D,D,Diabetic Retinopathy,2,test,2048,2048,10.421326482136465,57.57051420211792,36.98988099803217
+test/Original/55_D.png,test/Ground truth/55_D.png,test_55_D,D,Diabetic Retinopathy,2,test,2048,2048,7.913201803606855,48.307759046554565,31.6099758377753
+test/Original/56_D.png,test/Ground truth/56_D.png,test_56_D,D,Diabetic Retinopathy,2,test,2048,2048,5.331629028807527,40.88831806182861,25.46384995511286
+test/Original/57_D.png,test/Ground truth/57_D.png,test_57_D,D,Diabetic Retinopathy,2,test,2048,2048,10.129576918835426,98.16949558258057,55.596770598253464
+test/Original/58_D.png,test/Ground truth/58_D.png,test_58_D,D,Diabetic Retinopathy,2,test,2048,2048,10.8335680955222,69.71018028259277,41.37726790637652
+test/Original/59_D.png,test/Ground truth/59_D.png,test_59_D,D,Diabetic Retinopathy,2,test,2048,2048,6.728728294345046,80.31830835342407,45.35845850741525
+test/Original/60_D.png,test/Ground truth/60_D.png,test_60_D,D,Diabetic Retinopathy,2,test,2048,2048,5.316926478060623,93.34469199180603,52.49973730967444
+test/Original/61_D.png,test/Ground truth/61_D.png,test_61_D,D,Diabetic Retinopathy,2,test,2048,2048,7.009770368006683,43.63625168800354,26.977543767449962
+test/Original/62_D.png,test/Ground truth/62_D.png,test_62_D,D,Diabetic Retinopathy,2,test,2048,2048,5.484911066994243,29.219380855560303,21.515211893440245
+test/Original/63_D.png,test/Ground truth/63_D.png,test_63_D,D,Diabetic Retinopathy,2,test,2048,2048,5.963111400589696,70.90862846374512,41.13434180731672
+test/Original/64_D.png,test/Ground truth/64_D.png,test_64_D,D,Diabetic Retinopathy,2,test,2048,2048,5.817640304561792,40.02527570724487,29.238854234527548
+test/Original/65_D.png,test/Ground truth/65_D.png,test_65_D,D,Diabetic Retinopathy,2,test,2048,2048,9.272685494968751,56.960413217544556,34.08490600022003
+test/Original/66_D.png,test/Ground truth/66_D.png,test_66_D,D,Diabetic Retinopathy,2,test,2048,2048,8.47032051660699,78.91073894500732,44.94710640693463
+test/Original/67_D.png,test/Ground truth/67_D.png,test_67_D,D,Diabetic Retinopathy,2,test,2048,2048,6.747419831863224,46.79233479499817,41.53616864840592
+test/Original/68_D.png,test/Ground truth/68_D.png,test_68_D,D,Diabetic Retinopathy,2,test,2048,2048,8.359993912497885,34.75215697288513,22.87583266752174
+test/Original/69_D.png,test/Ground truth/69_D.png,test_69_D,D,Diabetic Retinopathy,2,test,2048,2048,7.774476527686602,47.29984664916992,30.118085845181202
+test/Original/70_D.png,test/Ground truth/70_D.png,test_70_D,D,Diabetic Retinopathy,2,test,2048,2048,6.236623048769559,73.87420773506165,43.727189939569
+test/Original/71_D.png,test/Ground truth/71_D.png,test_71_D,D,Diabetic Retinopathy,2,test,2048,2048,7.319079026579857,35.95300316810608,23.237801084530087
+test/Original/72_D.png,test/Ground truth/72_D.png,test_72_D,D,Diabetic Retinopathy,2,test,2048,2048,8.550813436016542,47.85536575317383,28.88006309228512
+test/Original/73_D.png,test/Ground truth/73_D.png,test_73_D,D,Diabetic Retinopathy,2,test,2048,2048,3.3307483196257976,48.181211709976196,29.858335043799567
+test/Original/74_D.png,test/Ground truth/74_D.png,test_74_D,D,Diabetic Retinopathy,2,test,2048,2048,3.1512961387406904,41.87523555755615,26.50773244527985
+test/Original/75_D.png,test/Ground truth/75_D.png,test_75_D,D,Diabetic Retinopathy,2,test,2048,2048,9.583385467409016,62.49125647544861,40.517419487268114
+test/Original/76_D.png,test/Ground truth/76_D.png,test_76_D,D,Diabetic Retinopathy,2,test,2048,2048,9.20268487376961,90.04268646240234,53.80960592140432
+test/Original/77_D.png,test/Ground truth/77_D.png,test_77_D,D,Diabetic Retinopathy,2,test,2048,2048,9.13119625950634,69.1419026851654,40.41218076973982
+test/Original/78_D.png,test/Ground truth/78_D.png,test_78_D,D,Diabetic Retinopathy,2,test,2048,2048,10.31357597855907,47.2362494468689,30.499337962855137
+test/Original/79_D.png,test/Ground truth/79_D.png,test_79_D,D,Diabetic Retinopathy,2,test,2048,2048,10.727221726619463,56.241129636764526,34.2167947061707
+test/Original/80_D.png,test/Ground truth/80_D.png,test_80_D,D,Diabetic Retinopathy,2,test,2048,2048,7.932404515067899,45.413819313049316,30.56442693256194
+test/Original/81_D.png,test/Ground truth/81_D.png,test_81_D,D,Diabetic Retinopathy,2,test,2048,2048,6.791803836822282,82.6137022972107,48.61452723191888
+test/Original/82_D.png,test/Ground truth/82_D.png,test_82_D,D,Diabetic Retinopathy,2,test,2048,2048,7.1026451552433505,56.727492570877075,41.96219656766436
+test/Original/83_D.png,test/Ground truth/83_D.png,test_83_D,D,Diabetic Retinopathy,2,test,2048,2048,9.265699711664414,80.09001207351685,46.488561759115356
+test/Original/84_D.png,test/Ground truth/84_D.png,test_84_D,D,Diabetic Retinopathy,2,test,2048,2048,10.671905507835394,58.74173951148987,36.3580877088454
+test/Original/85_D.png,test/Ground truth/85_D.png,test_85_D,D,Diabetic Retinopathy,2,test,2048,2048,9.998206369784786,44.23660588264465,29.531253076106648
+test/Original/86_D.png,test/Ground truth/86_D.png,test_86_D,D,Diabetic Retinopathy,2,test,2048,2048,8.267385715918806,39.01481008529663,25.355326284213128
+test/Original/87_D.png,test/Ground truth/87_D.png,test_87_D,D,Diabetic Retinopathy,2,test,2048,2048,8.722077369579894,43.080414056777954,29.057296930615035
+test/Original/88_D.png,test/Ground truth/88_D.png,test_88_D,D,Diabetic Retinopathy,2,test,2048,2048,10.910111618757073,63.3417329788208,38.57936506780802
+test/Original/89_D.png,test/Ground truth/89_D.png,test_89_D,D,Diabetic Retinopathy,2,test,2048,2048,6.9999859145099785,42.242695331573486,26.53148800728362
+test/Original/90_D.png,test/Ground truth/90_D.png,test_90_D,D,Diabetic Retinopathy,2,test,2048,2048,8.295132394243808,38.579888582229614,25.082977249390215
+test/Original/91_D.png,test/Ground truth/91_D.png,test_91_D,D,Diabetic Retinopathy,2,test,2048,2048,9.515628099386905,43.53467893600464,27.385993978660284
+test/Original/92_D.png,test/Ground truth/92_D.png,test_92_D,D,Diabetic Retinopathy,2,test,2048,2048,7.723723168127378,46.84556436538696,31.974661072036344
+test/Original/93_D.png,test/Ground truth/93_D.png,test_93_D,D,Diabetic Retinopathy,2,test,2048,2048,9.235858912651565,48.144792556762695,31.282795775083496
+test/Original/94_D.png,test/Ground truth/94_D.png,test_94_D,D,Diabetic Retinopathy,2,test,2048,2048,6.087983607163323,37.8551607131958,29.845315790825836
+test/Original/95_D.png,test/Ground truth/95_D.png,test_95_D,D,Diabetic Retinopathy,2,test,2048,2048,8.825384139053995,62.79479384422302,37.24439929191123
+test/Original/96_D.png,test/Ground truth/96_D.png,test_96_D,D,Diabetic Retinopathy,2,test,2048,2048,8.043416004525852,61.4297149181366,39.38002387851289
+test/Original/97_D.png,test/Ground truth/97_D.png,test_97_D,D,Diabetic Retinopathy,2,test,2048,2048,9.598633070451285,54.77470874786377,33.328597029350796
+test/Original/98_D.png,test/Ground truth/98_D.png,test_98_D,D,Diabetic Retinopathy,2,test,2048,2048,10.321222741643396,64.45732259750366,39.46504988632156
+test/Original/99_D.png,test/Ground truth/99_D.png,test_99_D,D,Diabetic Retinopathy,2,test,2048,2048,10.850939487566789,57.36729311943054,33.18475434472398
+test/Original/100_D.png,test/Ground truth/100_D.png,test_100_D,D,Diabetic Retinopathy,2,test,2048,2048,7.55502030742514,51.22833180427551,32.31587778299801
+test/Original/101_G.png,test/Ground truth/101_G.png,test_101_G,G,Glaucoma,3,test,2048,2048,7.514406919469764,21.93872570991516,22.838875253438534
+test/Original/102_G.png,test/Ground truth/102_G.png,test_102_G,G,Glaucoma,3,test,2048,2048,7.141971111215527,17.253415822982788,16.083320768425153
+test/Original/103_G.png,test/Ground truth/103_G.png,test_103_G,G,Glaucoma,3,test,2048,2048,10.022605127806344,59.442107915878296,35.80406090470587
+test/Original/104_G.png,test/Ground truth/104_G.png,test_104_G,G,Glaucoma,3,test,2048,2048,2.3559286594185664,35.87350058555603,26.910217406112423
+test/Original/105_G.png,test/Ground truth/105_G.png,test_105_G,G,Glaucoma,3,test,2048,2048,9.313804743549953,36.46189904212952,24.91372997771488
+test/Original/106_G.png,test/Ground truth/106_G.png,test_106_G,G,Glaucoma,3,test,2048,2048,7.4545357173050775,52.608824014663696,33.341335306648496
+test/Original/107_G.png,test/Ground truth/107_G.png,test_107_G,G,Glaucoma,3,test,2048,2048,3.436413998883779,41.07209300994873,29.957657832779294
+test/Original/108_G.png,test/Ground truth/108_G.png,test_108_G,G,Glaucoma,3,test,2048,2048,9.56697674449373,55.30873465538025,35.56155946074076
+test/Original/109_G.png,test/Ground truth/109_G.png,test_109_G,G,Glaucoma,3,test,2048,2048,8.068806883692048,36.85566020011902,24.551506178482803
+test/Original/110_G.png,test/Ground truth/110_G.png,test_110_G,G,Glaucoma,3,test,2048,2048,9.87797540542101,30.7741539478302,22.3516364337385
+test/Original/111_G.png,test/Ground truth/111_G.png,test_111_G,G,Glaucoma,3,test,2048,2048,9.382614824058635,45.84654140472412,29.346331205858238
+test/Original/112_G.png,test/Ground truth/112_G.png,test_112_G,G,Glaucoma,3,test,2048,2048,6.906121717488531,23.833405256271362,19.176743161131583
+test/Original/113_G.png,test/Ground truth/113_G.png,test_113_G,G,Glaucoma,3,test,2048,2048,4.090006589869006,14.08365249633789,10.887003591791057
+test/Original/114_G.png,test/Ground truth/114_G.png,test_114_G,G,Glaucoma,3,test,2048,2048,5.601832387228343,17.423269271850586,13.56895800708526
+test/Original/115_G.png,test/Ground truth/115_G.png,test_115_G,G,Glaucoma,3,test,2048,2048,7.988481515639249,40.069687843322754,29.576162978693965
+test/Original/116_G.png,test/Ground truth/116_G.png,test_116_G,G,Glaucoma,3,test,2048,2048,7.164785135658294,19.509904861450195,16.08997841880722
+test/Original/117_G.png,test/Ground truth/117_G.png,test_117_G,G,Glaucoma,3,test,2048,2048,8.828185782696835,55.636178970336914,37.08177046842285
+test/Original/118_G.png,test/Ground truth/118_G.png,test_118_G,G,Glaucoma,3,test,2048,2048,11.71447410690234,48.53703308105469,31.007055686065396
+test/Original/119_G.png,test/Ground truth/119_G.png,test_119_G,G,Glaucoma,3,test,2048,2048,9.396574367614221,39.53570222854614,24.19073884424493
+test/Original/120_G.png,test/Ground truth/120_G.png,test_120_G,G,Glaucoma,3,test,2048,2048,8.755141493519147,33.388920068740845,26.700171468693075
+test/Original/121_G.png,test/Ground truth/121_G.png,test_121_G,G,Glaucoma,3,test,2048,2048,8.988707297697545,41.132731437683105,33.37985541455848
+test/Original/122_G.png,test/Ground truth/122_G.png,test_122_G,G,Glaucoma,3,test,2048,2048,5.850395202598293,32.41831874847412,25.517012289565645
+test/Original/123_G.png,test/Ground truth/123_G.png,test_123_G,G,Glaucoma,3,test,2048,2048,4.872225283985017,20.788193941116333,18.15412129347456
+test/Original/124_G.png,test/Ground truth/124_G.png,test_124_G,G,Glaucoma,3,test,2048,2048,8.443135737952389,27.060159921646118,20.367397252585658
+test/Original/125_G.png,test/Ground truth/125_G.png,test_125_G,G,Glaucoma,3,test,2048,2048,7.943792819630973,34.7646107673645,23.38851616282935
+test/Original/126_G.png,test/Ground truth/126_G.png,test_126_G,G,Glaucoma,3,test,2048,2048,9.484317063814556,56.144692182540894,35.037481789116995
+test/Original/127_G.png,test/Ground truth/127_G.png,test_127_G,G,Glaucoma,3,test,2048,2048,8.30639862904394,46.11070203781128,32.02627317535921
+test/Original/128_G.png,test/Ground truth/128_G.png,test_128_G,G,Glaucoma,3,test,2048,2048,7.98184394803593,42.5099093914032,26.992987234790274
+test/Original/129_G.png,test/Ground truth/129_G.png,test_129_G,G,Glaucoma,3,test,2048,2048,9.618555781646533,56.82153582572937,42.19606060254476
+test/Original/130_G.png,test/Ground truth/130_G.png,test_130_G,G,Glaucoma,3,test,2048,2048,7.936125753214583,38.30540204048157,26.129307973766227
+test/Original/131_G.png,test/Ground truth/131_G.png,test_131_G,G,Glaucoma,3,test,2048,2048,2.9971218103446517,39.02257466316223,29.904728241943666
+test/Original/132_G.png,test/Ground truth/132_G.png,test_132_G,G,Glaucoma,3,test,2048,2048,7.944994449155049,34.275266885757446,22.743592066116886
+test/Original/133_G.png,test/Ground truth/133_G.png,test_133_G,G,Glaucoma,3,test,2048,2048,6.013309169164074,19.42115616798401,19.572129513503004
+test/Original/134_G.png,test/Ground truth/134_G.png,test_134_G,G,Glaucoma,3,test,2048,2048,2.9435472479942746,40.26853942871094,27.269379157301998
+test/Original/135_G.png,test/Ground truth/135_G.png,test_135_G,G,Glaucoma,3,test,2048,2048,6.409500598849263,57.8674259185791,34.14907678312177
+test/Original/136_G.png,test/Ground truth/136_G.png,test_136_G,G,Glaucoma,3,test,2048,2048,7.243679758132144,21.413454055786133,14.681724044258333
+test/Original/137_G.png,test/Ground truth/137_G.png,test_137_G,G,Glaucoma,3,test,2048,2048,6.2997410295546965,24.968929290771484,17.048674860727754
+test/Original/138_G.png,test/Ground truth/138_G.png,test_138_G,G,Glaucoma,3,test,2048,2048,9.491573256193076,37.67274522781372,22.585378265245886
+test/Original/139_G.png,test/Ground truth/139_G.png,test_139_G,G,Glaucoma,3,test,2048,2048,8.903054703983795,48.55967450141907,29.857450445723902
+test/Original/140_G.png,test/Ground truth/140_G.png,test_140_G,G,Glaucoma,3,test,2048,2048,8.15950059663373,41.83420443534851,31.60480275468741
+test/Original/141_G.png,test/Ground truth/141_G.png,test_141_G,G,Glaucoma,3,test,2048,2048,7.3569960590355095,39.98551917076111,26.901616110514247
+test/Original/142_G.png,test/Ground truth/142_G.png,test_142_G,G,Glaucoma,3,test,2048,2048,3.4783053397311505,43.80948305130005,29.08400921603784
+test/Original/143_G.png,test/Ground truth/143_G.png,test_143_G,G,Glaucoma,3,test,2048,2048,10.583221434267902,63.20157051086426,40.86140487213601
+test/Original/144_G.png,test/Ground truth/144_G.png,test_144_G,G,Glaucoma,3,test,2048,2048,1.9961853025806704,26.75221300125122,25.653049805877153
+test/Original/145_G.png,test/Ground truth/145_G.png,test_145_G,G,Glaucoma,3,test,2048,2048,1.1316468715662609,16.59707736968994,17.12735839818922
+test/Original/146_G.png,test/Ground truth/146_G.png,test_146_G,G,Glaucoma,3,test,2048,2048,8.70449614524699,51.75244426727295,35.60622997360835
+test/Original/147_G.png,test/Ground truth/147_G.png,test_147_G,G,Glaucoma,3,test,2048,2048,10.728188272878864,39.99160170555115,27.783912210039784
+test/Original/148_G.png,test/Ground truth/148_G.png,test_148_G,G,Glaucoma,3,test,2048,2048,8.04942226271578,17.309550046920776,12.46254361244719
+test/Original/149_G.png,test/Ground truth/149_G.png,test_149_G,G,Glaucoma,3,test,2048,2048,9.558162688521179,44.80816292762756,29.743287853889047
+test/Original/150_G.png,test/Ground truth/150_G.png,test_150_G,G,Glaucoma,3,test,2048,2048,9.226325748189481,36.6089072227478,26.520293375082513
+test/Original/151_N.png,test/Ground truth/151_N.png,test_151_N,N,Normal,0,test,2048,2048,3.2030451287400297,37.547497272491455,26.737774076873315
+test/Original/152_N.png,test/Ground truth/152_N.png,test_152_N,N,Normal,0,test,2048,2048,2.8813269138240116,34.21591091156006,23.49518324785873
+test/Original/153_N.png,test/Ground truth/153_N.png,test_153_N,N,Normal,0,test,2048,2048,8.255914439712289,40.971609592437744,32.18959574617933
+test/Original/154_N.png,test/Ground truth/154_N.png,test_154_N,N,Normal,0,test,2048,2048,10.213043206163999,46.836458921432495,30.924608158834094
+test/Original/155_N.png,test/Ground truth/155_N.png,test_155_N,N,Normal,0,test,2048,2048,7.268750644579084,26.472441911697388,22.846133902987024
+test/Original/156_N.png,test/Ground truth/156_N.png,test_156_N,N,Normal,0,test,2048,2048,8.524508212397848,34.178001165390015,27.541948320113136
+test/Original/157_N.png,test/Ground truth/157_N.png,test_157_N,N,Normal,0,test,2048,2048,7.180973522530394,29.260382890701294,22.59577409605275
+test/Original/158_N.png,test/Ground truth/158_N.png,test_158_N,N,Normal,0,test,2048,2048,6.478549235791833,28.35279870033264,23.640451257359334
+test/Original/159_N.png,test/Ground truth/159_N.png,test_159_N,N,Normal,0,test,2048,2048,7.613734720336426,33.37120532989502,26.52297863841849
+test/Original/160_N.png,test/Ground truth/160_N.png,test_160_N,N,Normal,0,test,2048,2048,8.044476268048072,37.44110059738159,29.349197180187748
+test/Original/161_N.png,test/Ground truth/161_N.png,test_161_N,N,Normal,0,test,2048,2048,6.358483788985723,33.20383429527283,26.741083737177302
+test/Original/162_N.png,test/Ground truth/162_N.png,test_162_N,N,Normal,0,test,2048,2048,6.589363336553504,32.69705939292908,25.43953993343786
+test/Original/163_N.png,test/Ground truth/163_N.png,test_163_N,N,Normal,0,test,2048,2048,7.080630779243622,25.37161946296692,21.846123995140438
+test/Original/164_N.png,test/Ground truth/164_N.png,test_164_N,N,Normal,0,test,2048,2048,7.242192028290843,27.870269298553467,22.835996518150075
+test/Original/165_N.png,test/Ground truth/165_N.png,test_165_N,N,Normal,0,test,2048,2048,10.649224988487674,36.64463472366333,26.337338222763442
+test/Original/166_N.png,test/Ground truth/166_N.png,test_166_N,N,Normal,0,test,2048,2048,11.410454743017908,38.08650207519531,28.855744657262335
+test/Original/167_N.png,test/Ground truth/167_N.png,test_167_N,N,Normal,0,test,2048,2048,6.479397759758285,37.2080717086792,26.93928351324371
+test/Original/168_N.png,test/Ground truth/168_N.png,test_168_N,N,Normal,0,test,2048,2048,6.538797365443315,37.00309896469116,27.212499887327375
+test/Original/169_N.png,test/Ground truth/169_N.png,test_169_N,N,Normal,0,test,2048,2048,5.107000101974279,26.23713779449463,19.99952862964752
+test/Original/170_N.png,test/Ground truth/170_N.png,test_170_N,N,Normal,0,test,2048,2048,4.904524315118578,22.70965075492859,17.157625375415027
+test/Original/171_N.png,test/Ground truth/171_N.png,test_171_N,N,Normal,0,test,2048,2048,10.305421112837793,46.75417733192444,34.728870047622664
+test/Original/172_N.png,test/Ground truth/172_N.png,test_172_N,N,Normal,0,test,2048,2048,10.308480500396797,47.69186615943909,35.106641331656895
+test/Original/173_N.png,test/Ground truth/173_N.png,test_173_N,N,Normal,0,test,2048,2048,9.80079291935903,57.19526195526123,39.26553595123875
+test/Original/174_N.png,test/Ground truth/174_N.png,test_174_N,N,Normal,0,test,2048,2048,9.656704655089866,48.36308479309082,33.25697705387143
+test/Original/175_N.png,test/Ground truth/175_N.png,test_175_N,N,Normal,0,test,2048,2048,12.376584052919268,56.83956289291382,39.70681392564353
+test/Original/176_N.png,test/Ground truth/176_N.png,test_176_N,N,Normal,0,test,2048,2048,11.171532153031874,53.75287413597107,37.39838603972969
+test/Original/177_N.png,test/Ground truth/177_N.png,test_177_N,N,Normal,0,test,2048,2048,10.899922361261815,50.391764640808105,33.67824300634884
+test/Original/178_N.png,test/Ground truth/178_N.png,test_178_N,N,Normal,0,test,2048,2048,10.43048381076892,52.66850018501282,33.904331501105624
+test/Original/179_N.png,test/Ground truth/179_N.png,test_179_N,N,Normal,0,test,2048,2048,3.824285268763049,54.452529191970825,36.8816045511339
+test/Original/180_N.png,test/Ground truth/180_N.png,test_180_N,N,Normal,0,test,2048,2048,3.782262800810713,53.062918186187744,35.82835546492274
+test/Original/181_N.png,test/Ground truth/181_N.png,test_181_N,N,Normal,0,test,2048,2048,2.9055843351488875,45.5851731300354,29.700591325254457
+test/Original/182_N.png,test/Ground truth/182_N.png,test_182_N,N,Normal,0,test,2048,2048,3.2749779200507305,46.450119733810425,31.504252208836437
+test/Original/183_N.png,test/Ground truth/183_N.png,test_183_N,N,Normal,0,test,2048,2048,6.663337462948165,31.480517148971558,23.980425829092535
+test/Original/184_N.png,test/Ground truth/184_N.png,test_184_N,N,Normal,0,test,2048,2048,3.4095578171827583,48.866047859191895,33.04863615231966
+test/Original/185_N.png,test/Ground truth/185_N.png,test_185_N,N,Normal,0,test,2048,2048,10.713891029266957,50.31749391555786,35.038056093211175
+test/Original/186_N.png,test/Ground truth/186_N.png,test_186_N,N,Normal,0,test,2048,2048,11.611246583242746,50.31306982040405,35.206819745544486
+test/Original/187_N.png,test/Ground truth/187_N.png,test_187_N,N,Normal,0,test,2048,2048,8.25433182418277,52.723459005355835,37.3352080593144
+test/Original/188_N.png,test/Ground truth/188_N.png,test_188_N,N,Normal,0,test,2048,2048,10.759689569301317,51.93893909454346,36.01335745870657
+test/Original/189_N.png,test/Ground truth/189_N.png,test_189_N,N,Normal,0,test,2048,2048,11.64465641828059,58.19456124305725,39.418775322433056
+test/Original/190_N.png,test/Ground truth/190_N.png,test_190_N,N,Normal,0,test,2048,2048,10.47358083637573,48.59695243835449,34.71847154481558
+test/Original/191_N.png,test/Ground truth/191_N.png,test_191_N,N,Normal,0,test,2048,2048,12.624884599440518,52.90277123451233,36.02981428354199
+test/Original/192_N.png,test/Ground truth/192_N.png,test_192_N,N,Normal,0,test,2048,2048,12.522680277059404,53.40416145324707,34.47233091622724
+test/Original/193_N.png,test/Ground truth/193_N.png,test_193_N,N,Normal,0,test,2048,2048,8.100864124182806,39.429441690444946,28.694401223677374
+test/Original/194_N.png,test/Ground truth/194_N.png,test_194_N,N,Normal,0,test,2048,2048,8.27551384815155,38.87219429016113,27.857594923583303
+test/Original/195_N.png,test/Ground truth/195_N.png,test_195_N,N,Normal,0,test,2048,2048,11.189652124152813,47.24459958076477,30.234577094199008
+test/Original/196_N.png,test/Ground truth/196_N.png,test_196_N,N,Normal,0,test,2048,2048,10.57318201663088,46.56927514076233,30.12943993035624
+test/Original/197_N.png,test/Ground truth/197_N.png,test_197_N,N,Normal,0,test,2048,2048,8.799354069580433,35.8990797996521,29.793144322540904
+test/Original/198_N.png,test/Ground truth/198_N.png,test_198_N,N,Normal,0,test,2048,2048,9.26266001901877,39.84768342971802,26.925308233262815
+test/Original/199_N.png,test/Ground truth/199_N.png,test_199_N,N,Normal,0,test,2048,2048,11.016457975143338,60.67902231216431,39.47039595409074
+test/Original/200_N.png,test/Ground truth/200_N.png,test_200_N,N,Normal,0,test,2048,2048,11.278372931063531,58.3100905418396,38.42012893010493
+train/Original/1_A.png,train/Ground truth/1_A.png,train_1_A,A,AMD,1,train,2048,2048,9.753413438792393,72.11093878746033,45.41420710773599
+train/Original/2_A.png,train/Ground truth/2_A.png,train_2_A,A,AMD,1,train,2048,2048,7.881148336476143,44.62960767745972,28.771546754395196
+train/Original/3_A.png,train/Ground truth/3_A.png,train_3_A,A,AMD,1,train,2048,2048,10.684867378496845,41.959474325180054,26.996304994610803
+train/Original/4_A.png,train/Ground truth/4_A.png,train_4_A,A,AMD,1,train,2048,2048,2.5735404485157574,37.06944298744202,26.74571805484037
+train/Original/5_A.png,train/Ground truth/5_A.png,train_5_A,A,AMD,1,train,2048,2048,7.9219894396728705,47.304020166397095,30.347756969910836
+train/Original/6_A.png,train/Ground truth/6_A.png,train_6_A,A,AMD,1,train,2048,2048,7.564656495822362,44.783148527145386,29.47073468291567
+train/Original/7_A.png,train/Ground truth/7_A.png,train_7_A,A,AMD,1,train,2048,2048,8.208175420691475,48.32171034812927,30.05015624929245
+train/Original/8_A.png,train/Ground truth/8_A.png,train_8_A,A,AMD,1,train,2048,2048,7.812869310273923,47.949201822280884,29.466299203021833
+train/Original/9_A.png,train/Ground truth/9_A.png,train_9_A,A,AMD,1,train,2048,2048,9.605129000897193,41.0483193397522,26.281354295306784
+train/Original/10_A.png,train/Ground truth/10_A.png,train_10_A,A,AMD,1,train,2048,2048,9.476387976579415,53.62907528877258,35.42502759708646
+train/Original/11_A.png,train/Ground truth/11_A.png,train_11_A,A,AMD,1,train,2048,2048,9.994536832658921,57.49620747566223,35.67176239915677
+train/Original/12_A.png,train/Ground truth/12_A.png,train_12_A,A,AMD,1,train,2048,2048,10.117830004105086,62.3340208530426,38.369053105846156
+train/Original/13_A.png,train/Ground truth/13_A.png,train_13_A,A,AMD,1,train,2048,2048,9.747902834161323,57.574137449264526,35.44945515061077
+train/Original/14_A.png,train/Ground truth/14_A.png,train_14_A,A,AMD,1,train,2048,2048,9.175096076978152,55.67833685874939,35.26163628181301
+train/Original/15_A.png,train/Ground truth/15_A.png,train_15_A,A,AMD,1,train,2048,2048,8.954373530934335,54.70616030693054,32.34110554149578
+train/Original/16_A.png,train/Ground truth/16_A.png,train_16_A,A,AMD,1,train,2048,2048,8.133296012724713,53.2040159702301,33.23624341925058
+train/Original/17_A.png,train/Ground truth/17_A.png,train_17_A,A,AMD,1,train,2048,2048,8.721356339737895,51.515403747558594,33.38165959981912
+train/Original/18_A.png,train/Ground truth/18_A.png,train_18_A,A,AMD,1,train,2048,2048,9.7731633119854,51.01045227050781,30.720970359850952
+train/Original/19_A.png,train/Ground truth/19_A.png,train_19_A,A,AMD,1,train,2048,2048,8.433308806357614,62.532355546951294,37.83258133459817
+train/Original/20_A.png,train/Ground truth/20_A.png,train_20_A,A,AMD,1,train,2048,2048,9.612338288492026,51.89105582237244,35.687437500048
+train/Original/21_A.png,train/Ground truth/21_A.png,train_21_A,A,AMD,1,train,2048,2048,8.418521871360783,44.27047681808472,29.013236438291262
+train/Original/22_A.png,train/Ground truth/22_A.png,train_22_A,A,AMD,1,train,2048,2048,10.103927091046899,69.89341711997986,40.23429191531218
+train/Original/23_A.png,train/Ground truth/23_A.png,train_23_A,A,AMD,1,train,2048,2048,4.964326858520508,60.48949122428894,42.61889695583923
+train/Original/24_A.png,train/Ground truth/24_A.png,train_24_A,A,AMD,1,train,2048,2048,9.84473800475007,50.59908962249756,32.64602315980776
+train/Original/25_A.png,train/Ground truth/25_A.png,train_25_A,A,AMD,1,train,2048,2048,9.195350405086117,68.58570122718811,43.244563174700474
+train/Original/26_A.png,train/Ground truth/26_A.png,train_26_A,A,AMD,1,train,2048,2048,9.733333544423656,64.8147485256195,39.02930696175589
+train/Original/27_A.png,train/Ground truth/27_A.png,train_27_A,A,AMD,1,train,2048,2048,9.207077067688202,76.5074896812439,46.80387197599787
+train/Original/28_A.png,train/Ground truth/28_A.png,train_28_A,A,AMD,1,train,2048,2048,11.018828191548664,58.920250415802,36.585261376719785
+train/Original/29_A.png,train/Ground truth/29_A.png,train_29_A,A,AMD,1,train,2048,2048,10.834338812752264,82.97946977615356,52.70354368119292
+train/Original/30_A.png,train/Ground truth/30_A.png,train_30_A,A,AMD,1,train,2048,2048,9.686983195355369,55.017762422561646,36.56509163851725
+train/Original/31_A.png,train/Ground truth/31_A.png,train_31_A,A,AMD,1,train,2048,2048,9.695898628393254,46.49923753738403,30.674418594372135
+train/Original/32_A.png,train/Ground truth/32_A.png,train_32_A,A,AMD,1,train,2048,2048,10.59350799891439,53.32141876220703,33.048081960319635
+train/Original/33_A.png,train/Ground truth/33_A.png,train_33_A,A,AMD,1,train,2048,2048,11.717850404676428,77.88758587837219,45.485573907392244
+train/Original/34_A.png,train/Ground truth/34_A.png,train_34_A,A,AMD,1,train,2048,2048,8.605568640058607,68.3485746383667,41.085290445994154
+train/Original/35_A.png,train/Ground truth/35_A.png,train_35_A,A,AMD,1,train,2048,2048,8.587865743469365,56.511554479599,34.07053865555021
+train/Original/36_A.png,train/Ground truth/36_A.png,train_36_A,A,AMD,1,train,2048,2048,9.079567591001194,56.89681625366211,34.45490084104757
+train/Original/37_A.png,train/Ground truth/37_A.png,train_37_A,A,AMD,1,train,2048,2048,10.781996011008177,66.44334745407104,40.82946047647438
+train/Original/38_A.png,train/Ground truth/38_A.png,train_38_A,A,AMD,1,train,2048,2048,11.182816850541709,69.21039009094238,42.01324290830089
+train/Original/39_A.png,train/Ground truth/39_A.png,train_39_A,A,AMD,1,train,2048,2048,10.753040302107364,61.56363558769226,36.476540712234275
+train/Original/40_A.png,train/Ground truth/40_A.png,train_40_A,A,AMD,1,train,2048,2048,9.833984362228648,57.755680084228516,33.91047351277936
+train/Original/41_A.png,train/Ground truth/41_A.png,train_41_A,A,AMD,1,train,2048,2048,10.517885381832853,59.19495487213135,47.254539673825825
+train/Original/42_A.png,train/Ground truth/42_A.png,train_42_A,A,AMD,1,train,2048,2048,8.353573794548538,59.00642991065979,37.297867899877645
+train/Original/43_A.png,train/Ground truth/43_A.png,train_43_A,A,AMD,1,train,2048,2048,9.307232616551062,60.80345702171326,38.12080826974284
+train/Original/44_A.png,train/Ground truth/44_A.png,train_44_A,A,AMD,1,train,2048,2048,9.274702064529038,78.28071331977844,47.49282550833009
+train/Original/45_A.png,train/Ground truth/45_A.png,train_45_A,A,AMD,1,train,2048,2048,9.308994054634638,54.32577872276306,33.75690472250439
+train/Original/46_A.png,train/Ground truth/46_A.png,train_46_A,A,AMD,1,train,2048,2048,8.530704736537643,53.124886989593506,32.66405895426172
+train/Original/47_A.png,train/Ground truth/47_A.png,train_47_A,A,AMD,1,train,2048,2048,9.201629871086368,54.10228109359741,35.0577262430733
+train/Original/48_A.png,train/Ground truth/48_A.png,train_48_A,A,AMD,1,train,2048,2048,9.368610853383869,53.78053283691406,34.26895819738607
+train/Original/49_A.png,train/Ground truth/49_A.png,train_49_A,A,AMD,1,train,2048,2048,8.706718916128008,50.663686990737915,33.11376839799227
+train/Original/50_A.png,train/Ground truth/50_A.png,train_50_A,A,AMD,1,train,2048,2048,8.322295401576355,54.63092756271362,35.51044054410488
+train/Original/51_A.png,train/Ground truth/51_A.png,train_51_A,A,AMD,1,train,2048,2048,7.156948779414449,45.001420974731445,31.478348835516893
+train/Original/52_A.png,train/Ground truth/52_A.png,train_52_A,A,AMD,1,train,2048,2048,8.453293061007969,58.71848440170288,40.358194293546
+train/Original/53_A.png,train/Ground truth/53_A.png,train_53_A,A,AMD,1,train,2048,2048,8.466709302804645,56.40470790863037,35.6936040868158
+train/Original/54_A.png,train/Ground truth/54_A.png,train_54_A,A,AMD,1,train,2048,2048,9.216578948390634,61.207507610321045,38.659475174268636
+train/Original/55_A.png,train/Ground truth/55_A.png,train_55_A,A,AMD,1,train,2048,2048,7.8971531271385516,46.774099826812744,32.47737522844082
+train/Original/56_A.png,train/Ground truth/56_A.png,train_56_A,A,AMD,1,train,2048,2048,11.38361114787017,47.55156946182251,32.736634452350415
+train/Original/57_A.png,train/Ground truth/57_A.png,train_57_A,A,AMD,1,train,2048,2048,4.782991170858111,56.053465127944946,35.15809654811279
+train/Original/58_A.png,train/Ground truth/58_A.png,train_58_A,A,AMD,1,train,2048,2048,9.790930077442454,54.584616899490356,33.962013238826955
+train/Original/59_A.png,train/Ground truth/59_A.png,train_59_A,A,AMD,1,train,2048,2048,7.748215871878472,48.87744450569153,27.940631414401338
+train/Original/60_A.png,train/Ground truth/60_A.png,train_60_A,A,AMD,1,train,2048,2048,9.200331448346278,45.973368644714355,33.23564357615089
+train/Original/61_A.png,train/Ground truth/61_A.png,train_61_A,A,AMD,1,train,2048,2048,10.509056089124895,97.00544214248657,58.72985576014693
+train/Original/62_A.png,train/Ground truth/62_A.png,train_62_A,A,AMD,1,train,2048,2048,8.574346780699159,52.10229969024658,32.01834220640733
+train/Original/63_A.png,train/Ground truth/63_A.png,train_63_A,A,AMD,1,train,2048,2048,11.361337851735186,94.41910862922668,54.01709032470231
+train/Original/64_A.png,train/Ground truth/64_A.png,train_64_A,A,AMD,1,train,2048,2048,10.333307018121047,82.39068245887756,47.5488625240579
+train/Original/65_A.png,train/Ground truth/65_A.png,train_65_A,A,AMD,1,train,2048,2048,10.966067552116272,51.75298523902893,35.12956082651377
+train/Original/66_A.png,train/Ground truth/66_A.png,train_66_A,A,AMD,1,train,2048,2048,7.984793172761556,98.08755111694336,55.22939405593803
+train/Original/67_A.png,train/Ground truth/67_A.png,train_67_A,A,AMD,1,train,2048,2048,10.26778936351525,82.81716561317444,47.65846618520615
+train/Original/68_A.png,train/Ground truth/68_A.png,train_68_A,A,AMD,1,train,2048,2048,7.913722496896071,70.48212504386902,44.25089355649787
+train/Original/69_A.png,train/Ground truth/69_A.png,train_69_A,A,AMD,1,train,2048,2048,8.420325452452687,49.098708152770996,30.75099598287404
+train/Original/70_A.png,train/Ground truth/70_A.png,train_70_A,A,AMD,1,train,2048,2048,8.341315984705432,73.19095134735107,48.011947733184726
+train/Original/71_A.png,train/Ground truth/71_A.png,train_71_A,A,AMD,1,train,2048,2048,9.225945393851136,86.47871041297913,51.15726966504972
+train/Original/72_A.png,train/Ground truth/72_A.png,train_72_A,A,AMD,1,train,2048,2048,10.397930360616954,72.85524415969849,43.152777280011016
+train/Original/73_A.png,train/Ground truth/73_A.png,train_73_A,A,AMD,1,train,2048,2048,9.232155799632892,45.79614782333374,33.159385880602
+train/Original/74_A.png,train/Ground truth/74_A.png,train_74_A,A,AMD,1,train,2048,2048,9.140420609832233,56.37564039230347,34.68580993033595
+train/Original/75_A.png,train/Ground truth/75_A.png,train_75_A,A,AMD,1,train,2048,2048,12.17410079522142,56.5579936504364,35.701512144459635
+train/Original/76_A.png,train/Ground truth/76_A.png,train_76_A,A,AMD,1,train,2048,2048,9.812174944461674,84.81184935569763,49.58265859552021
+train/Original/77_A.png,train/Ground truth/77_A.png,train_77_A,A,AMD,1,train,2048,2048,11.065491359530311,56.25584650039673,35.31944848499489
+train/Original/78_A.png,train/Ground truth/78_A.png,train_78_A,A,AMD,1,train,2048,2048,9.423556086965561,52.86110496520996,32.533761601586775
+train/Original/79_A.png,train/Ground truth/79_A.png,train_79_A,A,AMD,1,train,2048,2048,9.58846330450251,45.45951747894287,29.23828236808027
+train/Original/81_A.png,train/Ground truth/81_A.png,train_81_A,A,AMD,1,train,2048,2048,8.737524271008565,52.77228093147278,34.85014783097288
+train/Original/82_A.png,train/Ground truth/82_A.png,train_82_A,A,AMD,1,train,2048,2048,9.495634727070808,83.69137144088745,50.027815610690475
+train/Original/83_A.png,train/Ground truth/83_A.png,train_83_A,A,AMD,1,train,2048,2048,10.061112337812801,86.79896950721741,51.53035518664207
+train/Original/84_A.png,train/Ground truth/84_A.png,train_84_A,A,AMD,1,train,2048,2048,9.73668783560737,87.9177258014679,52.93463965995108
+train/Original/85_A.png,train/Ground truth/85_A.png,train_85_A,A,AMD,1,train,2048,2048,7.118946640376578,73.22940230369568,42.063379763159396
+train/Original/86_A.png,train/Ground truth/86_A.png,train_86_A,A,AMD,1,train,2048,2048,9.969872472949419,91.64070892333984,52.761412472940215
+train/Original/87_A.png,train/Ground truth/87_A.png,train_87_A,A,AMD,1,train,2048,2048,10.466021537778714,61.82901477813721,37.38908380361502
+train/Original/88_A.png,train/Ground truth/88_A.png,train_88_A,A,AMD,1,train,2048,2048,10.695915460194954,54.621760845184326,33.343275073932894
+train/Original/89_A.png,train/Ground truth/89_A.png,train_89_A,A,AMD,1,train,2048,2048,8.60598681568257,97.34712815284729,58.095779801987945
+train/Original/90_A.png,train/Ground truth/90_A.png,train_90_A,A,AMD,1,train,2048,2048,9.525038949257521,81.30730199813843,47.183509539001655
+train/Original/91_A.png,train/Ground truth/91_A.png,train_91_A,A,AMD,1,train,2048,2048,9.881093740462742,105.75772786140442,63.675285948242774
+train/Original/92_A.png,train/Ground truth/92_A.png,train_92_A,A,AMD,1,train,2048,2048,6.391771314767538,70.92096662521362,41.89079661187002
+train/Original/93_A.png,train/Ground truth/93_A.png,train_93_A,A,AMD,1,train,2048,2048,10.74570125034893,74.23088812828064,46.52290499333148
+train/Original/94_A.png,train/Ground truth/94_A.png,train_94_A,A,AMD,1,train,2048,2048,9.09418819627808,82.08261799812317,47.76265706532971
+train/Original/95_A.png,train/Ground truth/95_A.png,train_95_A,A,AMD,1,train,2048,2048,9.820244111760074,82.45046043395996,48.977747064415844
+train/Original/96_A.png,train/Ground truth/96_A.png,train_96_A,A,AMD,1,train,2048,2048,11.494765640971083,76.11145281791687,48.39141739244377
+train/Original/98_A.png,train/Ground truth/98_A.png,train_98_A,A,AMD,1,train,2048,2048,7.077560975783854,34.19278025627136,29.879236882263626
+train/Original/99_A.png,train/Ground truth/99_A.png,train_99_A,A,AMD,1,train,2048,2048,8.554449789186434,48.51307225227356,35.32526447625541
+train/Original/100_A.png,train/Ground truth/100_A.png,train_100_A,A,AMD,1,train,2048,2048,6.651421544523828,45.509122133255005,30.057029484045117
+train/Original/101_A.png,train/Ground truth/101_A.png,train_101_A,A,AMD,1,train,2048,2048,10.154477354986684,78.1548523902893,45.94753914388477
+train/Original/102_A.png,train/Ground truth/102_A.png,train_102_A,A,AMD,1,train,2048,2048,11.196744203264585,106.41882109642029,59.98106309050609
+train/Original/103_A.png,train/Ground truth/103_A.png,train_103_A,A,AMD,1,train,2048,2048,11.098287550252278,82.88334441184998,47.553820743508496
+train/Original/104_A.png,train/Ground truth/104_A.png,train_104_A,A,AMD,1,train,2048,2048,11.055228917549755,89.2378077507019,50.85496156710545
+train/Original/105_A.png,train/Ground truth/105_A.png,train_105_A,A,AMD,1,train,2048,2048,10.042731521124947,57.435325622558594,36.685713515479705
+train/Original/106_A.png,train/Ground truth/106_A.png,train_106_A,A,AMD,1,train,2048,2048,9.013207433424212,49.40395951271057,29.997923702403288
+train/Original/107_A.png,train/Ground truth/107_A.png,train_107_A,A,AMD,1,train,2048,2048,10.338431107093527,53.150367736816406,34.61624918668004
+train/Original/108_A.png,train/Ground truth/108_A.png,train_108_A,A,AMD,1,train,2048,2048,9.888248431259626,52.451958417892456,33.2611737928857
+train/Original/109_A.png,train/Ground truth/109_A.png,train_109_A,A,AMD,1,train,2048,2048,11.180529584298485,73.7632348537445,44.372821979585055
+train/Original/110_A.png,train/Ground truth/110_A.png,train_110_A,A,AMD,1,train,2048,2048,6.84747099698319,62.58308959007263,43.15110009733961
+train/Original/111_A.png,train/Ground truth/111_A.png,train_111_A,A,AMD,1,train,2048,2048,9.373457411871641,74.77481484413147,48.82374691492028
+train/Original/112_A.png,train/Ground truth/112_A.png,train_112_A,A,AMD,1,train,2048,2048,9.676198767319647,47.59193301200867,31.29926601762831
+train/Original/113_A.png,train/Ground truth/113_A.png,train_113_A,A,AMD,1,train,2048,2048,9.269156213213535,74.95431613922119,42.941172320381035
+train/Original/114_A.png,train/Ground truth/114_A.png,train_114_A,A,AMD,1,train,2048,2048,10.191945547363275,52.89693284034729,33.12945932415687
+train/Original/115_A.png,train/Ground truth/115_A.png,train_115_A,A,AMD,1,train,2048,2048,7.6769745163250604,83.26994442939758,49.391919808070746
+train/Original/116_A.png,train/Ground truth/116_A.png,train_116_A,A,AMD,1,train,2048,2048,8.406947832777348,64.64510130882263,41.32697962737095
+train/Original/117_A.png,train/Ground truth/117_A.png,train_117_A,A,AMD,1,train,2048,2048,10.084508180188038,105.39760613441467,60.01112958046982
+train/Original/119_A.png,train/Ground truth/119_A.png,train_119_A,A,AMD,1,train,2048,2048,8.908431708361547,79.56867551803589,45.93606720926009
+train/Original/120_A.png,train/Ground truth/120_A.png,train_120_A,A,AMD,1,train,2048,2048,7.533843465569362,80.29530072212219,46.691914782819076
+train/Original/122_A.png,train/Ground truth/122_A.png,train_122_A,A,AMD,1,train,2048,2048,10.273091788475538,118.05540990829468,67.85597253571221
+train/Original/123_A.png,train/Ground truth/123_A.png,train_123_A,A,AMD,1,train,2048,2048,8.884580132179508,89.5897045135498,52.8828637582718
+train/Original/124_A.png,train/Ground truth/124_A.png,train_124_A,A,AMD,1,train,2048,2048,7.757331585635654,52.91152477264404,40.57929046670153
+train/Original/125_A.png,train/Ground truth/125_A.png,train_125_A,A,AMD,1,train,2048,2048,7.531268582551776,68.56048107147217,41.44460582480506
+train/Original/126_A.png,train/Ground truth/126_A.png,train_126_A,A,AMD,1,train,2048,2048,11.350591659163683,99.50105905532837,62.0303709170524
+train/Original/127_A.png,train/Ground truth/127_A.png,train_127_A,A,AMD,1,train,2048,2048,9.74797724856671,48.86676859855652,32.35468788244929
+train/Original/128_A.png,train/Ground truth/128_A.png,train_128_A,A,AMD,1,train,2048,2048,11.093223135220285,76.80143785476685,46.20900902094924
+train/Original/129_A.png,train/Ground truth/129_A.png,train_129_A,A,AMD,1,train,2048,2048,8.751114941610867,81.285076379776,47.60316342639926
+train/Original/130_A.png,train/Ground truth/130_A.png,train_130_A,A,AMD,1,train,2048,2048,8.818628783081069,54.339661836624146,33.852010116814455
+train/Original/131_A.png,train/Ground truth/131_A.png,train_131_A,A,AMD,1,train,2048,2048,8.925447187255884,89.5683262348175,51.28688096740271
+train/Original/133_A.png,train/Ground truth/133_A.png,train_133_A,A,AMD,1,train,2048,2048,9.13727497950907,100.83775782585144,57.76916912028797
+train/Original/135_A.png,train/Ground truth/135_A.png,train_135_A,A,AMD,1,train,2048,2048,9.467963683498056,63.80086970329285,40.783901917001906
+train/Original/136_A.png,train/Ground truth/136_A.png,train_136_A,A,AMD,1,train,2048,2048,8.213905780517962,64.84779644012451,39.37728431092405
+train/Original/137_A.png,train/Ground truth/137_A.png,train_137_A,A,AMD,1,train,2048,2048,10.233682699358669,49.48609232902527,30.942205108758653
+train/Original/138_A.png,train/Ground truth/138_A.png,train_138_A,A,AMD,1,train,2048,2048,9.52302200706049,47.195815324783325,29.7236403688965
+train/Original/139_A.png,train/Ground truth/139_A.png,train_139_A,A,AMD,1,train,2048,2048,9.419652765554702,45.67273569107056,29.66221191306302
+train/Original/140_A.png,train/Ground truth/140_A.png,train_140_A,A,AMD,1,train,2048,2048,8.0013181896515,85.91278314590454,50.5675160848205
+train/Original/141_A.png,train/Ground truth/141_A.png,train_141_A,A,AMD,1,train,2048,2048,7.31296346827162,37.13532280921936,26.4077179892484
+train/Original/142_A.png,train/Ground truth/142_A.png,train_142_A,A,AMD,1,train,2048,2048,10.898745841937625,68.56976103782654,43.50033846534422
+train/Original/143_A.png,train/Ground truth/143_A.png,train_143_A,A,AMD,1,train,2048,2048,10.200051305795341,55.65680456161499,38.13932384828258
+train/Original/144_A.png,train/Ground truth/144_A.png,train_144_A,A,AMD,1,train,2048,2048,8.443906292085556,92.25498986244202,53.55880778453678
+train/Original/145_A.png,train/Ground truth/145_A.png,train_145_A,A,AMD,1,train,2048,2048,11.449448849044925,74.40258240699768,48.044073611259016
+train/Original/146_A.png,train/Ground truth/146_A.png,train_146_A,A,AMD,1,train,2048,2048,11.728710436812376,82.46104097366333,53.70696404838498
+train/Original/147_A.png,train/Ground truth/147_A.png,train_147_A,A,AMD,1,train,2048,2048,10.8537173206239,51.34331226348877,32.04661785171846
+train/Original/148_A.png,train/Ground truth/148_A.png,train_148_A,A,AMD,1,train,2048,2048,6.5522425138901195,34.77313232421875,23.330165866305187
+train/Original/149_A.png,train/Ground truth/149_A.png,train_149_A,A,AMD,1,train,2048,2048,9.521106240332074,52.68091320991516,33.332657196564874
+train/Original/150_A.png,train/Ground truth/150_A.png,train_150_A,A,AMD,1,train,2048,2048,8.25581979726826,57.49418663978577,38.346268103295365
+train/Original/151_D.png,train/Ground truth/151_D.png,train_151_D,D,Diabetic Retinopathy,2,train,2048,2048,9.695698302680682,79.88093614578247,46.73835215760107
+train/Original/152_D.png,train/Ground truth/152_D.png,train_152_D,D,Diabetic Retinopathy,2,train,2048,2048,8.410140253465613,53.90559101104736,35.975654224204064
+train/Original/153_D.png,train/Ground truth/153_D.png,train_153_D,D,Diabetic Retinopathy,2,train,2048,2048,9.161918634242966,62.59183049201965,38.37365727175035
+train/Original/154_D.png,train/Ground truth/154_D.png,train_154_D,D,Diabetic Retinopathy,2,train,2048,2048,7.539375444698633,38.11871671676636,25.33421360240834
+train/Original/155_D.png,train/Ground truth/155_D.png,train_155_D,D,Diabetic Retinopathy,2,train,2048,2048,9.9637679784646,75.17220759391785,44.7085205283496
+train/Original/156_D.png,train/Ground truth/156_D.png,train_156_D,D,Diabetic Retinopathy,2,train,2048,2048,3.977958202303853,71.37007665634155,40.56278051103883
+train/Original/157_D.png,train/Ground truth/157_D.png,train_157_D,D,Diabetic Retinopathy,2,train,2048,2048,9.61704386240217,45.203092098236084,28.175102891277003
+train/Original/158_D.png,train/Ground truth/158_D.png,train_158_D,D,Diabetic Retinopathy,2,train,2048,2048,9.753231757982519,62.18350577354431,37.186864941919694
+train/Original/159_D.png,train/Ground truth/159_D.png,train_159_D,D,Diabetic Retinopathy,2,train,2048,2048,9.119964680445207,61.59771490097046,37.54314245605513
+train/Original/160_D.png,train/Ground truth/160_D.png,train_160_D,D,Diabetic Retinopathy,2,train,2048,2048,8.811135378888084,52.535035610198975,34.18218952727451
+train/Original/161_D.png,train/Ground truth/161_D.png,train_161_D,D,Diabetic Retinopathy,2,train,2048,2048,3.8215358257129424,49.81821918487549,29.993741870092048
+train/Original/162_D.png,train/Ground truth/162_D.png,train_162_D,D,Diabetic Retinopathy,2,train,2048,2048,5.50327849387844,91.53226566314697,52.086650360990525
+train/Original/163_D.png,train/Ground truth/163_D.png,train_163_D,D,Diabetic Retinopathy,2,train,2048,2048,6.2107930183410645,85.25038003921509,48.384331851386904
+train/Original/164_D.png,train/Ground truth/164_D.png,train_164_D,D,Diabetic Retinopathy,2,train,2048,2048,6.744267702102604,65.25573468208313,38.7812914500409
+train/Original/165_D.png,train/Ground truth/165_D.png,train_165_D,D,Diabetic Retinopathy,2,train,2048,2048,8.186367341229014,27.698712825775146,19.002001283118936
+train/Original/166_D.png,train/Ground truth/166_D.png,train_166_D,D,Diabetic Retinopathy,2,train,2048,2048,6.308147430419922,54.47746729850769,37.28316434838142
+train/Original/167_D.png,train/Ground truth/167_D.png,train_167_D,D,Diabetic Retinopathy,2,train,2048,2048,9.050521846442052,36.8920578956604,26.37861519066827
+train/Original/168_D.png,train/Ground truth/168_D.png,train_168_D,D,Diabetic Retinopathy,2,train,2048,2048,9.493273972236635,38.90106153488159,28.09777631205459
+train/Original/169_D.png,train/Ground truth/169_D.png,train_169_D,D,Diabetic Retinopathy,2,train,2048,2048,10.849225347402355,66.74594974517822,38.81283584914515
+train/Original/170_D.png,train/Ground truth/170_D.png,train_170_D,D,Diabetic Retinopathy,2,train,2048,2048,5.220846648399856,31.45870566368103,20.812878268929232
+train/Original/171_D.png,train/Ground truth/171_D.png,train_171_D,D,Diabetic Retinopathy,2,train,2048,2048,9.684386581750005,48.839391469955444,30.689060631861494
+train/Original/172_D.png,train/Ground truth/172_D.png,train_172_D,D,Diabetic Retinopathy,2,train,2048,2048,10.258324142941774,67.41838836669922,40.58221897867668
+train/Original/173_D.png,train/Ground truth/173_D.png,train_173_D,D,Diabetic Retinopathy,2,train,2048,2048,7.850153022581651,40.3666307926178,30.938245746855685
+train/Original/174_D.png,train/Ground truth/174_D.png,train_174_D,D,Diabetic Retinopathy,2,train,2048,2048,9.38442229202701,58.58466672897339,35.34977580853441
+train/Original/175_D.png,train/Ground truth/175_D.png,train_175_D,D,Diabetic Retinopathy,2,train,2048,2048,10.028742311289534,46.83880949020386,30.536864585362338
+train/Original/176_D.png,train/Ground truth/176_D.png,train_176_D,D,Diabetic Retinopathy,2,train,2048,2048,12.604217243909659,60.0756049156189,37.504147843563906
+train/Original/177_D.png,train/Ground truth/177_D.png,train_177_D,D,Diabetic Retinopathy,2,train,2048,2048,9.416123031440238,73.18748712539673,43.084962930316145
+train/Original/178_D.png,train/Ground truth/178_D.png,train_178_D,D,Diabetic Retinopathy,2,train,2048,2048,9.473491884199063,75.48961448669434,45.72509500903253
+train/Original/179_D.png,train/Ground truth/179_D.png,train_179_D,D,Diabetic Retinopathy,2,train,2048,2048,11.066794871409908,62.97605228424072,40.28613384401717
+train/Original/180_D.png,train/Ground truth/180_D.png,train_180_D,D,Diabetic Retinopathy,2,train,2048,2048,9.323415089025502,44.36566686630249,27.022667836183004
+train/Original/181_D.png,train/Ground truth/181_D.png,train_181_D,D,Diabetic Retinopathy,2,train,2048,2048,9.78485202084994,35.9364275932312,26.980642819045645
+train/Original/182_D.png,train/Ground truth/182_D.png,train_182_D,D,Diabetic Retinopathy,2,train,2048,2048,11.222663674605428,75.4290611743927,46.62184845991897
+train/Original/183_D.png,train/Ground truth/183_D.png,train_183_D,D,Diabetic Retinopathy,2,train,2048,2048,8.765895827538543,35.823402643203735,24.71901690587615
+train/Original/184_D.png,train/Ground truth/184_D.png,train_184_D,D,Diabetic Retinopathy,2,train,2048,2048,9.961626999407374,63.65589618682861,39.43775404600407
+train/Original/185_D.png,train/Ground truth/185_D.png,train_185_D,D,Diabetic Retinopathy,2,train,2048,2048,10.140163657323171,49.6630334854126,32.021743613270814
+train/Original/186_D.png,train/Ground truth/186_D.png,train_186_D,D,Diabetic Retinopathy,2,train,2048,2048,3.421817541101916,47.649176597595215,29.223413502810427
+train/Original/187_D.png,train/Ground truth/187_D.png,train_187_D,D,Diabetic Retinopathy,2,train,2048,2048,7.6821792119903325,33.13927745819092,21.609814907672614
+train/Original/188_D.png,train/Ground truth/188_D.png,train_188_D,D,Diabetic Retinopathy,2,train,2048,2048,6.8750762939416745,47.053290605545044,31.746981656201942
+train/Original/189_D.png,train/Ground truth/189_D.png,train_189_D,D,Diabetic Retinopathy,2,train,2048,2048,6.233509302139225,54.70117735862732,39.75239215930115
+train/Original/190_D.png,train/Ground truth/190_D.png,train_190_D,D,Diabetic Retinopathy,2,train,2048,2048,9.108226775132605,58.61890721321106,34.79859732676023
+train/Original/191_D.png,train/Ground truth/191_D.png,train_191_D,D,Diabetic Retinopathy,2,train,2048,2048,8.612193345593312,42.79326128959656,29.27989909658112
+train/Original/192_D.png,train/Ground truth/192_D.png,train_192_D,D,Diabetic Retinopathy,2,train,2048,2048,11.687722364713352,46.87849187850952,35.12639752373125
+train/Original/193_D.png,train/Ground truth/193_D.png,train_193_D,D,Diabetic Retinopathy,2,train,2048,2048,10.831586472982455,47.11723041534424,31.035465456651142
+train/Original/194_D.png,train/Ground truth/194_D.png,train_194_D,D,Diabetic Retinopathy,2,train,2048,2048,7.81241702568491,74.48698782920837,43.16065102423274
+train/Original/195_D.png,train/Ground truth/195_D.png,train_195_D,D,Diabetic Retinopathy,2,train,2048,2048,9.30809395360825,96.95973634719849,56.57141756681835
+train/Original/196_D.png,train/Ground truth/196_D.png,train_196_D,D,Diabetic Retinopathy,2,train,2048,2048,10.115586280382555,55.903008699417114,33.34370019750627
+train/Original/197_D.png,train/Ground truth/197_D.png,train_197_D,D,Diabetic Retinopathy,2,train,2048,2048,9.682093381578795,77.62798833847046,45.80583404465666
+train/Original/198_D.png,train/Ground truth/198_D.png,train_198_D,D,Diabetic Retinopathy,2,train,2048,2048,7.64673423234831,62.412426710128784,36.697725874237555
+train/Original/199_D.png,train/Ground truth/199_D.png,train_199_D,D,Diabetic Retinopathy,2,train,2048,2048,9.573661082410979,66.8620765209198,38.88682116150125
+train/Original/200_D.png,train/Ground truth/200_D.png,train_200_D,D,Diabetic Retinopathy,2,train,2048,2048,2.8788657188415527,38.280909061431885,25.309944042094674
+train/Original/201_D.png,train/Ground truth/201_D.png,train_201_D,D,Diabetic Retinopathy,2,train,2048,2048,6.485626456294938,31.624114751815796,24.52839070057547
+train/Original/202_D.png,train/Ground truth/202_D.png,train_202_D,D,Diabetic Retinopathy,2,train,2048,2048,6.782569885253906,67.65933060646057,44.263231116143764
+train/Original/203_D.png,train/Ground truth/203_D.png,train_203_D,D,Diabetic Retinopathy,2,train,2048,2048,8.68066941376105,43.853320360183716,27.07844905537715
+train/Original/204_D.png,train/Ground truth/204_D.png,train_204_D,D,Diabetic Retinopathy,2,train,2048,2048,8.561260641548866,41.45869755744934,27.49000022003617
+train/Original/205_D.png,train/Ground truth/205_D.png,train_205_D,D,Diabetic Retinopathy,2,train,2048,2048,8.398993251886566,42.199082136154175,27.155207278033565
+train/Original/206_D.png,train/Ground truth/206_D.png,train_206_D,D,Diabetic Retinopathy,2,train,2048,2048,10.20087302215046,55.669586420059204,35.36060326630759
+train/Original/207_D.png,train/Ground truth/207_D.png,train_207_D,D,Diabetic Retinopathy,2,train,2048,2048,7.689179658886985,70.88621211051941,43.292168265336
+train/Original/208_D.png,train/Ground truth/208_D.png,train_208_D,D,Diabetic Retinopathy,2,train,2048,2048,9.794829838143187,85.88322401046753,54.09696471320724
+train/Original/209_D.png,train/Ground truth/209_D.png,train_209_D,D,Diabetic Retinopathy,2,train,2048,2048,7.384122133229937,42.39928722381592,29.588566878701144
+train/Original/210_D.png,train/Ground truth/210_D.png,train_210_D,D,Diabetic Retinopathy,2,train,2048,2048,8.882017603987832,59.10585331916809,40.93815962904287
+train/Original/211_D.png,train/Ground truth/211_D.png,train_211_D,D,Diabetic Retinopathy,2,train,2048,2048,7.149410723360917,42.31067395210266,28.988057357152925
+train/Original/212_D.png,train/Ground truth/212_D.png,train_212_D,D,Diabetic Retinopathy,2,train,2048,2048,3.734004020690918,38.11735463142395,26.08416990012811
+train/Original/213_D.png,train/Ground truth/213_D.png,train_213_D,D,Diabetic Retinopathy,2,train,2048,2048,7.767871376948961,76.42724013328552,48.081107922280886
+train/Original/214_D.png,train/Ground truth/214_D.png,train_214_D,D,Diabetic Retinopathy,2,train,2048,2048,9.758059740066471,66.88143658638,50.27339509900011
+train/Original/215_D.png,train/Ground truth/215_D.png,train_215_D,D,Diabetic Retinopathy,2,train,2048,2048,2.0708985328674316,30.40624976158142,22.577044122886335
+train/Original/216_D.png,train/Ground truth/216_D.png,train_216_D,D,Diabetic Retinopathy,2,train,2048,2048,6.5634953975131225,81.51156282424927,49.40879391346963
+train/Original/217_D.png,train/Ground truth/217_D.png,train_217_D,D,Diabetic Retinopathy,2,train,2048,2048,6.600320339202881,47.233654260635376,30.844516508294333
+train/Original/218_D.png,train/Ground truth/218_D.png,train_218_D,D,Diabetic Retinopathy,2,train,2048,2048,10.323234796187023,46.08785390853882,31.660191256013594
+train/Original/219_D.png,train/Ground truth/219_D.png,train_219_D,D,Diabetic Retinopathy,2,train,2048,2048,7.228586435317936,66.16552734375,42.86674200055566
+train/Original/220_D.png,train/Ground truth/220_D.png,train_220_D,D,Diabetic Retinopathy,2,train,2048,2048,3.0924751757879108,36.75364136695862,27.394068777875834
+train/Original/221_D.png,train/Ground truth/221_D.png,train_221_D,D,Diabetic Retinopathy,2,train,2048,2048,3.1635851854132397,50.467766523361206,32.48247343842009
+train/Original/222_D.png,train/Ground truth/222_D.png,train_222_D,D,Diabetic Retinopathy,2,train,2048,2048,8.156425149263612,32.82533288002014,22.96437656335635
+train/Original/223_D.png,train/Ground truth/223_D.png,train_223_D,D,Diabetic Retinopathy,2,train,2048,2048,7.148743391027381,67.57927632331848,40.05070245697361
+train/Original/224_D.png,train/Ground truth/224_D.png,train_224_D,D,Diabetic Retinopathy,2,train,2048,2048,9.98768114575427,42.92522120475769,27.70040854850266
+train/Original/225_D.png,train/Ground truth/225_D.png,train_225_D,D,Diabetic Retinopathy,2,train,2048,2048,7.950799210490855,48.6984601020813,32.270772067745916
+train/Original/226_D.png,train/Ground truth/226_D.png,train_226_D,D,Diabetic Retinopathy,2,train,2048,2048,8.92927616371975,48.52713632583618,31.09724761383009
+train/Original/227_D.png,train/Ground truth/227_D.png,train_227_D,D,Diabetic Retinopathy,2,train,2048,2048,8.809668777510923,39.306912660598755,25.85261000426452
+train/Original/228_D.png,train/Ground truth/228_D.png,train_228_D,D,Diabetic Retinopathy,2,train,2048,2048,8.018896817094117,52.50582504272461,34.07394631815359
+train/Original/229_D.png,train/Ground truth/229_D.png,train_229_D,D,Diabetic Retinopathy,2,train,2048,2048,3.736848353548112,64.38891530036926,38.084865642104695
+train/Original/230_D.png,train/Ground truth/230_D.png,train_230_D,D,Diabetic Retinopathy,2,train,2048,2048,6.260582447048364,47.22710728645325,31.086584806313706
+train/Original/231_D.png,train/Ground truth/231_D.png,train_231_D,D,Diabetic Retinopathy,2,train,2048,2048,10.38894674494935,70.9629385471344,45.61506896931779
+train/Original/232_D.png,train/Ground truth/232_D.png,train_232_D,D,Diabetic Retinopathy,2,train,2048,2048,8.384295217653232,37.12152600288391,25.63048325991682
+train/Original/233_D.png,train/Ground truth/233_D.png,train_233_D,D,Diabetic Retinopathy,2,train,2048,2048,8.354881278063658,47.92503499984741,32.56868424898457
+train/Original/234_D.png,train/Ground truth/234_D.png,train_234_D,D,Diabetic Retinopathy,2,train,2048,2048,8.793379032267183,44.07481622695923,29.511836039537563
+train/Original/235_D.png,train/Ground truth/235_D.png,train_235_D,D,Diabetic Retinopathy,2,train,2048,2048,6.741882800509985,42.84502577781677,27.265757984441798
+train/Original/236_D.png,train/Ground truth/236_D.png,train_236_D,D,Diabetic Retinopathy,2,train,2048,2048,9.569948158189618,52.61669158935547,33.14615880390257
+train/Original/237_D.png,train/Ground truth/237_D.png,train_237_D,D,Diabetic Retinopathy,2,train,2048,2048,10.826592790879658,74.25088834762573,44.95555494737183
+train/Original/238_D.png,train/Ground truth/238_D.png,train_238_D,D,Diabetic Retinopathy,2,train,2048,2048,3.329669952129734,43.41363835334778,28.188462291623942
+train/Original/239_D.png,train/Ground truth/239_D.png,train_239_D,D,Diabetic Retinopathy,2,train,2048,2048,4.680585622500928,56.62511992454529,34.977948381591595
+train/Original/240_D.png,train/Ground truth/240_D.png,train_240_D,D,Diabetic Retinopathy,2,train,2048,2048,4.123829364274343,46.31041479110718,30.416689900652784
+train/Original/241_D.png,train/Ground truth/241_D.png,train_241_D,D,Diabetic Retinopathy,2,train,2048,2048,9.893860273816241,36.85971736907959,24.24821828108938
+train/Original/242_D.png,train/Ground truth/242_D.png,train_242_D,D,Diabetic Retinopathy,2,train,2048,2048,10.569277692570722,54.440202713012695,34.057688936283505
+train/Original/243_D.png,train/Ground truth/243_D.png,train_243_D,D,Diabetic Retinopathy,2,train,2048,2048,6.889136787733149,44.80417823791504,32.47065255861758
+train/Original/244_D.png,train/Ground truth/244_D.png,train_244_D,D,Diabetic Retinopathy,2,train,2048,2048,4.48319983452069,47.19682955741882,32.31140030736505
+train/Original/245_D.png,train/Ground truth/245_D.png,train_245_D,D,Diabetic Retinopathy,2,train,2048,2048,2.838192700909474,36.045088052749634,22.363143444789195
+train/Original/246_D.png,train/Ground truth/246_D.png,train_246_D,D,Diabetic Retinopathy,2,train,2048,2048,8.62277507367594,37.26117992401123,24.671564090555112
+train/Original/247_D.png,train/Ground truth/247_D.png,train_247_D,D,Diabetic Retinopathy,2,train,2048,2048,9.61283203586936,40.0897274017334,26.321272339730186
+train/Original/248_D.png,train/Ground truth/248_D.png,train_248_D,D,Diabetic Retinopathy,2,train,2048,2048,11.366414998134132,50.71325063705444,31.444682855504585
+train/Original/249_D.png,train/Ground truth/249_D.png,train_249_D,D,Diabetic Retinopathy,2,train,2048,2048,10.052157983707216,57.44572854042053,36.09462662374055
+train/Original/250_D.png,train/Ground truth/250_D.png,train_250_D,D,Diabetic Retinopathy,2,train,2048,2048,8.387576040779091,46.77086329460144,29.701545022406886
+train/Original/251_D.png,train/Ground truth/251_D.png,train_251_D,D,Diabetic Retinopathy,2,train,2048,2048,10.068552726164341,47.7019681930542,31.451948404499454
+train/Original/252_D.png,train/Ground truth/252_D.png,train_252_D,D,Diabetic Retinopathy,2,train,2048,2048,6.9844636911655025,37.59833812713623,23.349608249033217
+train/Original/253_D.png,train/Ground truth/253_D.png,train_253_D,D,Diabetic Retinopathy,2,train,2048,2048,8.829311609213564,45.64252996444702,28.774737419997766
+train/Original/254_D.png,train/Ground truth/254_D.png,train_254_D,D,Diabetic Retinopathy,2,train,2048,2048,7.495630264128521,59.521143674850464,38.89330482343222
+train/Original/255_D.png,train/Ground truth/255_D.png,train_255_D,D,Diabetic Retinopathy,2,train,2048,2048,8.372843261808157,54.94415879249573,33.424270680100875
+train/Original/256_D.png,train/Ground truth/256_D.png,train_256_D,D,Diabetic Retinopathy,2,train,2048,2048,7.566628404598301,35.80684208869934,24.194127033063502
+train/Original/257_D.png,train/Ground truth/257_D.png,train_257_D,D,Diabetic Retinopathy,2,train,2048,2048,6.885652526743795,39.487515926361084,24.53441406210418
+train/Original/258_D.png,train/Ground truth/258_D.png,train_258_D,D,Diabetic Retinopathy,2,train,2048,2048,8.593646037783174,53.474332094192505,31.12507155467211
+train/Original/259_D.png,train/Ground truth/259_D.png,train_259_D,D,Diabetic Retinopathy,2,train,2048,2048,7.534645294746441,46.41228175163269,30.652337593457048
+train/Original/260_D.png,train/Ground truth/260_D.png,train_260_D,D,Diabetic Retinopathy,2,train,2048,2048,8.547044038772524,49.911503314971924,30.531971588601447
+train/Original/261_D.png,train/Ground truth/261_D.png,train_261_D,D,Diabetic Retinopathy,2,train,2048,2048,9.444677113540763,44.12175011634827,28.170289084155208
+train/Original/262_D.png,train/Ground truth/262_D.png,train_262_D,D,Diabetic Retinopathy,2,train,2048,2048,9.131330727855527,54.47240233421326,32.819672719680156
+train/Original/263_D.png,train/Ground truth/263_D.png,train_263_D,D,Diabetic Retinopathy,2,train,2048,2048,7.113211867366715,49.50752520561218,30.40884276420866
+train/Original/264_D.png,train/Ground truth/264_D.png,train_264_D,D,Diabetic Retinopathy,2,train,2048,2048,7.200206756500846,44.834678411483765,27.82581438208907
+train/Original/265_D.png,train/Ground truth/265_D.png,train_265_D,D,Diabetic Retinopathy,2,train,2048,2048,8.175199009411699,38.383418560028076,27.33620644515056
+train/Original/266_D.png,train/Ground truth/266_D.png,train_266_D,D,Diabetic Retinopathy,2,train,2048,2048,10.177122322447701,65.14923667907715,39.9603849764609
+train/Original/267_D.png,train/Ground truth/267_D.png,train_267_D,D,Diabetic Retinopathy,2,train,2048,2048,9.851702171830539,82.75062155723572,55.41327556615424
+train/Original/268_D.png,train/Ground truth/268_D.png,train_268_D,D,Diabetic Retinopathy,2,train,2048,2048,6.857885349104434,26.531593561172485,19.046779262702227
+train/Original/269_D.png,train/Ground truth/269_D.png,train_269_D,D,Diabetic Retinopathy,2,train,2048,2048,8.803907910676514,44.1784770488739,27.69808335490829
+train/Original/270_D.png,train/Ground truth/270_D.png,train_270_D,D,Diabetic Retinopathy,2,train,2048,2048,7.26818346369413,40.65524935722351,29.15226180821578
+train/Original/271_D.png,train/Ground truth/271_D.png,train_271_D,D,Diabetic Retinopathy,2,train,2048,2048,8.193004844669247,48.85762596130371,29.8688377661614
+train/Original/272_D.png,train/Ground truth/272_D.png,train_272_D,D,Diabetic Retinopathy,2,train,2048,2048,12.2757909149513,60.95230221748352,39.71489725291645
+train/Original/273_D.png,train/Ground truth/273_D.png,train_273_D,D,Diabetic Retinopathy,2,train,2048,2048,8.485494603331745,41.74145174026489,24.46879949119257
+train/Original/274_D.png,train/Ground truth/274_D.png,train_274_D,D,Diabetic Retinopathy,2,train,2048,2048,9.03875970774152,68.99269676208496,41.480702533380224
+train/Original/275_D.png,train/Ground truth/275_D.png,train_275_D,D,Diabetic Retinopathy,2,train,2048,2048,10.125588653082955,61.73533868789673,40.09338567667032
+train/Original/276_D.png,train/Ground truth/276_D.png,train_276_D,D,Diabetic Retinopathy,2,train,2048,2048,11.770938918632451,67.40642857551575,39.894863139021126
+train/Original/277_D.png,train/Ground truth/277_D.png,train_277_D,D,Diabetic Retinopathy,2,train,2048,2048,8.955119579540908,48.39301252365112,31.77928991529529
+train/Original/278_D.png,train/Ground truth/278_D.png,train_278_D,D,Diabetic Retinopathy,2,train,2048,2048,8.095540038397074,45.44732403755188,28.499477966553307
+train/Original/279_D.png,train/Ground truth/279_D.png,train_279_D,D,Diabetic Retinopathy,2,train,2048,2048,10.751334189603767,54.240649938583374,32.94682524853323
+train/Original/280_D.png,train/Ground truth/280_D.png,train_280_D,D,Diabetic Retinopathy,2,train,2048,2048,6.3264229286969,28.171457767486572,19.361356477310682
+train/Original/281_D.png,train/Ground truth/281_D.png,train_281_D,D,Diabetic Retinopathy,2,train,2048,2048,8.608721557415038,39.33509159088135,23.126212180102502
+train/Original/282_D.png,train/Ground truth/282_D.png,train_282_D,D,Diabetic Retinopathy,2,train,2048,2048,7.246288023199611,42.40948295593262,27.4501234862199
+train/Original/283_D.png,train/Ground truth/283_D.png,train_283_D,D,Diabetic Retinopathy,2,train,2048,2048,8.126457264358978,42.35388135910034,30.683477114170657
+train/Original/284_D.png,train/Ground truth/284_D.png,train_284_D,D,Diabetic Retinopathy,2,train,2048,2048,6.2647395128512935,35.20300626754761,22.23762857408204
+train/Original/285_D.png,train/Ground truth/285_D.png,train_285_D,D,Diabetic Retinopathy,2,train,2048,2048,10.279914616838083,45.5107958316803,38.778385075448405
+train/Original/286_D.png,train/Ground truth/286_D.png,train_286_D,D,Diabetic Retinopathy,2,train,2048,2048,4.056108713088122,41.08847784996033,27.872632163900796
+train/Original/287_D.png,train/Ground truth/287_D.png,train_287_D,D,Diabetic Retinopathy,2,train,2048,2048,9.130830761160722,46.05578112602234,26.571117503472127
+train/Original/288_D.png,train/Ground truth/288_D.png,train_288_D,D,Diabetic Retinopathy,2,train,2048,2048,7.97446272851761,35.28915810585022,23.32047136023791
+train/Original/289_D.png,train/Ground truth/289_D.png,train_289_D,D,Diabetic Retinopathy,2,train,2048,2048,4.964208841288325,55.30480360984802,34.00974601080492
+train/Original/290_D.png,train/Ground truth/290_D.png,train_290_D,D,Diabetic Retinopathy,2,train,2048,2048,9.145425075100263,58.96559739112854,36.78957277601654
+train/Original/291_D.png,train/Ground truth/291_D.png,train_291_D,D,Diabetic Retinopathy,2,train,2048,2048,9.522461262567733,48.64194416999817,32.95727752577175
+train/Original/292_D.png,train/Ground truth/292_D.png,train_292_D,D,Diabetic Retinopathy,2,train,2048,2048,9.716507754288614,48.109156131744385,32.63219394736554
+train/Original/293_D.png,train/Ground truth/293_D.png,train_293_D,D,Diabetic Retinopathy,2,train,2048,2048,8.354727993617189,48.2371711730957,31.546638709724586
+train/Original/294_D.png,train/Ground truth/294_D.png,train_294_D,D,Diabetic Retinopathy,2,train,2048,2048,7.972242517671872,49.43397665023804,29.905742647664482
+train/Original/295_D.png,train/Ground truth/295_D.png,train_295_D,D,Diabetic Retinopathy,2,train,2048,2048,11.127007926270323,41.588139057159424,26.166082990819227
+train/Original/296_D.png,train/Ground truth/296_D.png,train_296_D,D,Diabetic Retinopathy,2,train,2048,2048,9.15498467685478,36.52900576591492,23.638692587445053
+train/Original/297_D.png,train/Ground truth/297_D.png,train_297_D,D,Diabetic Retinopathy,2,train,2048,2048,7.4363020438722724,50.25643348693848,29.867513446386504
+train/Original/298_D.png,train/Ground truth/298_D.png,train_298_D,D,Diabetic Retinopathy,2,train,2048,2048,6.880544169550376,84.5396568775177,49.37034065801038
+train/Original/299_D.png,train/Ground truth/299_D.png,train_299_D,D,Diabetic Retinopathy,2,train,2048,2048,9.267214363577239,54.06367874145508,35.11136831091603
+train/Original/300_D.png,train/Ground truth/300_D.png,train_300_D,D,Diabetic Retinopathy,2,train,2048,2048,7.006479978558616,68.34343147277832,40.25551252370527
+train/Original/301_G.png,train/Ground truth/301_G.png,train_301_G,G,Glaucoma,3,train,2048,2048,7.9352915202761665,24.81525230407715,18.770053155110695
+train/Original/302_G.png,train/Ground truth/302_G.png,train_302_G,G,Glaucoma,3,train,2048,2048,8.120446195861406,27.422789812088013,20.82904264783
+train/Original/303_G.png,train/Ground truth/303_G.png,train_303_G,G,Glaucoma,3,train,2048,2048,9.195474573116368,47.65674066543579,28.205925554054037
+train/Original/304_G.png,train/Ground truth/304_G.png,train_304_G,G,Glaucoma,3,train,2048,2048,7.190801620101182,43.720149517059326,28.866663987301717
+train/Original/305_G.png,train/Ground truth/305_G.png,train_305_G,G,Glaucoma,3,train,2048,2048,7.934816598879422,52.934096813201904,34.058256018499364
+train/Original/306_G.png,train/Ground truth/306_G.png,train_306_G,G,Glaucoma,3,train,2048,2048,6.2814266681670565,40.54121518135071,26.866995099126974
+train/Original/307_G.png,train/Ground truth/307_G.png,train_307_G,G,Glaucoma,3,train,2048,2048,6.501865386542478,39.97674489021301,29.371616902106116
+train/Original/308_G.png,train/Ground truth/308_G.png,train_308_G,G,Glaucoma,3,train,2048,2048,9.846840370717246,36.775216817855835,27.394048175032456
+train/Original/309_G.png,train/Ground truth/309_G.png,train_309_G,G,Glaucoma,3,train,2048,2048,9.719641675266754,35.15925121307373,28.55669483678563
+train/Original/310_G.png,train/Ground truth/310_G.png,train_310_G,G,Glaucoma,3,train,2048,2048,2.5638966547574,40.6504487991333,27.151667308523553
+train/Original/311_G.png,train/Ground truth/311_G.png,train_311_G,G,Glaucoma,3,train,2048,2048,9.38842594042984,37.87158966064453,27.05724990883925
+train/Original/312_G.png,train/Ground truth/312_G.png,train_312_G,G,Glaucoma,3,train,2048,2048,7.341814991372075,54.53418850898743,34.80114675840645
+train/Original/313_G.png,train/Ground truth/313_G.png,train_313_G,G,Glaucoma,3,train,2048,2048,4.1792154312113325,46.0978479385376,31.265453381292357
+train/Original/314_G.png,train/Ground truth/314_G.png,train_314_G,G,Glaucoma,3,train,2048,2048,6.6754231309694205,34.30309081077576,21.05911750285837
+train/Original/315_G.png,train/Ground truth/315_G.png,train_315_G,G,Glaucoma,3,train,2048,2048,7.224538079243246,41.551629304885864,26.049890178796975
+train/Original/316_G.png,train/Ground truth/316_G.png,train_316_G,G,Glaucoma,3,train,2048,2048,9.841692633366108,58.189558029174805,33.118864359355285
+train/Original/317_G.png,train/Ground truth/317_G.png,train_317_G,G,Glaucoma,3,train,2048,2048,8.160013436204224,37.39943790435791,24.773456921696706
+train/Original/318_G.png,train/Ground truth/318_G.png,train_318_G,G,Glaucoma,3,train,2048,2048,9.723559323414296,29.47718858718872,22.69107010471209
+train/Original/319_G.png,train/Ground truth/319_G.png,train_319_G,G,Glaucoma,3,train,2048,2048,8.052921481289047,22.874972343444824,19.502141779854313
+train/Original/320_G.png,train/Ground truth/320_G.png,train_320_G,G,Glaucoma,3,train,2048,2048,7.353793371388237,27.400279760360718,21.984794831279046
+train/Original/321_G.png,train/Ground truth/321_G.png,train_321_G,G,Glaucoma,3,train,2048,2048,9.47475825372106,32.87803053855896,28.07867604418698
+train/Original/322_G.png,train/Ground truth/322_G.png,train_322_G,G,Glaucoma,3,train,2048,2048,10.099133842831865,41.834123373031616,30.147316128147605
+train/Original/323_G.png,train/Ground truth/323_G.png,train_323_G,G,Glaucoma,3,train,2048,2048,7.684297513950698,24.481865882873535,16.08121349390656
+train/Original/324_G.png,train/Ground truth/324_G.png,train_324_G,G,Glaucoma,3,train,2048,2048,7.71595092125949,25.336159467697144,21.036364650619724
+train/Original/325_G.png,train/Ground truth/325_G.png,train_325_G,G,Glaucoma,3,train,2048,2048,4.777613639503215,23.17553949356079,15.821204705135708
+train/Original/326_G.png,train/Ground truth/326_G.png,train_326_G,G,Glaucoma,3,train,2048,2048,5.818062537489765,18.05546760559082,16.95855517336209
+train/Original/327_G.png,train/Ground truth/327_G.png,train_327_G,G,Glaucoma,3,train,2048,2048,7.939848419336839,40.574527740478516,29.73622573498987
+train/Original/328_G.png,train/Ground truth/328_G.png,train_328_G,G,Glaucoma,3,train,2048,2048,7.662099581948439,25.094335556030273,19.006229960735375
+train/Original/329_G.png,train/Ground truth/329_G.png,train_329_G,G,Glaucoma,3,train,2048,2048,10.162103173004429,42.98872900009155,28.918168167544856
+train/Original/330_G.png,train/Ground truth/330_G.png,train_330_G,G,Glaucoma,3,train,2048,2048,8.565133801263926,24.001319646835327,19.92560722363775
+train/Original/331_G.png,train/Ground truth/331_G.png,train_331_G,G,Glaucoma,3,train,2048,2048,6.613223075538372,32.04971647262573,24.91427185804542
+train/Original/332_G.png,train/Ground truth/332_G.png,train_332_G,G,Glaucoma,3,train,2048,2048,7.686262607279785,44.809792041778564,32.54676838606189
+train/Original/333_G.png,train/Ground truth/333_G.png,train_333_G,G,Glaucoma,3,train,2048,2048,8.81404660431457,54.05193305015564,35.10740731751702
+train/Original/334_G.png,train/Ground truth/334_G.png,train_334_G,G,Glaucoma,3,train,2048,2048,6.583384035839117,27.178305625915527,21.11696426170952
+train/Original/335_G.png,train/Ground truth/335_G.png,train_335_G,G,Glaucoma,3,train,2048,2048,7.0577456929081,32.31054353713989,24.096108231845868
+train/Original/336_G.png,train/Ground truth/336_G.png,train_336_G,G,Glaucoma,3,train,2048,2048,9.594450235207148,36.929120779037476,24.815401341899662
+train/Original/337_G.png,train/Ground truth/337_G.png,train_337_G,G,Glaucoma,3,train,2048,2048,9.668242216005124,36.174724817276,24.893694069236542
+train/Original/338_G.png,train/Ground truth/338_G.png,train_338_G,G,Glaucoma,3,train,2048,2048,9.575937880151233,23.022868394851685,16.52984553705831
+train/Original/339_G.png,train/Ground truth/339_G.png,train_339_G,G,Glaucoma,3,train,2048,2048,9.208507057730456,42.3179395198822,31.489292359088754
+train/Original/340_G.png,train/Ground truth/340_G.png,train_340_G,G,Glaucoma,3,train,2048,2048,10.234556674318586,51.811721324920654,35.14319628906281
+train/Original/341_G.png,train/Ground truth/341_G.png,train_341_G,G,Glaucoma,3,train,2048,2048,6.92216665578394,14.227904319763184,9.555424762528066
+train/Original/342_G.png,train/Ground truth/342_G.png,train_342_G,G,Glaucoma,3,train,2048,2048,11.410151712138429,37.605451822280884,33.16271852382955
+train/Original/343_G.png,train/Ground truth/343_G.png,train_343_G,G,Glaucoma,3,train,2048,2048,11.337433329870464,35.9171302318573,30.33785949262639
+train/Original/344_G.png,train/Ground truth/344_G.png,train_344_G,G,Glaucoma,3,train,2048,2048,9.278924566149215,39.017555713653564,26.701644022929838
+train/Original/345_G.png,train/Ground truth/345_G.png,train_345_G,G,Glaucoma,3,train,2048,2048,9.85032210572331,49.943610191345215,32.28947150128698
+train/Original/346_G.png,train/Ground truth/346_G.png,train_346_G,G,Glaucoma,3,train,2048,2048,6.304365873320364,40.66651391983032,25.29132733183864
+train/Original/347_G.png,train/Ground truth/347_G.png,train_347_G,G,Glaucoma,3,train,2048,2048,6.44392514227178,41.447221994400024,26.530798346294286
+train/Original/348_G.png,train/Ground truth/348_G.png,train_348_G,G,Glaucoma,3,train,2048,2048,8.788384197518951,31.793092727661133,24.796000384092597
+train/Original/349_G.png,train/Ground truth/349_G.png,train_349_G,G,Glaucoma,3,train,2048,2048,7.4331171489179155,31.209600687026978,21.4756473803258
+train/Original/350_G.png,train/Ground truth/350_G.png,train_350_G,G,Glaucoma,3,train,2048,2048,7.797252892285487,41.226823806762695,28.303681712246597
+train/Original/351_G.png,train/Ground truth/351_G.png,train_351_G,G,Glaucoma,3,train,2048,2048,9.680978295180239,47.20566248893738,31.205303264243422
+train/Original/352_G.png,train/Ground truth/352_G.png,train_352_G,G,Glaucoma,3,train,2048,2048,8.296097753380081,22.23400902748108,20.072533982912965
+train/Original/353_G.png,train/Ground truth/353_G.png,train_353_G,G,Glaucoma,3,train,2048,2048,7.942149397186709,17.01609778404236,18.545719474486017
+train/Original/354_G.png,train/Ground truth/354_G.png,train_354_G,G,Glaucoma,3,train,2048,2048,9.165899514373848,24.85875153541565,20.013847992254842
+train/Original/355_G.png,train/Ground truth/355_G.png,train_355_G,G,Glaucoma,3,train,2048,2048,9.287284610914812,25.49326729774475,20.02207050799743
+train/Original/356_G.png,train/Ground truth/356_G.png,train_356_G,G,Glaucoma,3,train,2048,2048,9.028428068327914,47.09118723869324,30.11035131264396
+train/Original/357_G.png,train/Ground truth/357_G.png,train_357_G,G,Glaucoma,3,train,2048,2048,8.364795436511429,42.74510312080383,27.83118592347624
+train/Original/358_G.png,train/Ground truth/358_G.png,train_358_G,G,Glaucoma,3,train,2048,2048,4.252410411752635,52.409842014312744,35.6171943035574
+train/Original/359_G.png,train/Ground truth/359_G.png,train_359_G,G,Glaucoma,3,train,2048,2048,3.645727154841552,48.78180384635925,35.310277926406435
+train/Original/360_G.png,train/Ground truth/360_G.png,train_360_G,G,Glaucoma,3,train,2048,2048,6.960510819429091,14.139607906341553,11.0453840646931
+train/Original/361_G.png,train/Ground truth/361_G.png,train_361_G,G,Glaucoma,3,train,2048,2048,8.191413723510774,23.39778780937195,26.301964092135783
+train/Original/362_G.png,train/Ground truth/362_G.png,train_362_G,G,Glaucoma,3,train,2048,2048,10.034023278944913,30.08026146888733,21.936732274388145
+train/Original/363_G.png,train/Ground truth/363_G.png,train_363_G,G,Glaucoma,3,train,2048,2048,8.550794114384185,16.859707832336426,16.184243070896404
+train/Original/364_G.png,train/Ground truth/364_G.png,train_364_G,G,Glaucoma,3,train,2048,2048,7.914844273820504,19.18863868713379,15.531231161076427
+train/Original/365_G.png,train/Ground truth/365_G.png,train_365_G,G,Glaucoma,3,train,2048,2048,6.801113589046281,36.093451738357544,28.00124363687348
+train/Original/366_G.png,train/Ground truth/366_G.png,train_366_G,G,Glaucoma,3,train,2048,2048,6.3037762430392394,26.721329927444458,20.89545241608414
+train/Original/367_G.png,train/Ground truth/367_G.png,train_367_G,G,Glaucoma,3,train,2048,2048,3.579525470387807,44.05780649185181,32.50161145086267
+train/Original/368_G.png,train/Ground truth/368_G.png,train_368_G,G,Glaucoma,3,train,2048,2048,2.6227045052073663,37.0111358165741,28.304958092164618
+train/Original/369_G.png,train/Ground truth/369_G.png,train_369_G,G,Glaucoma,3,train,2048,2048,2.075425862514237,28.817217111587524,22.77485631404856
+train/Original/370_G.png,train/Ground truth/370_G.png,train_370_G,G,Glaucoma,3,train,2048,2048,2.0304090976096063,29.63798689842224,20.512959424584093
+train/Original/371_G.png,train/Ground truth/371_G.png,train_371_G,G,Glaucoma,3,train,2048,2048,1.992951392106761,29.099379777908325,32.63001426305758
+train/Original/372_G.png,train/Ground truth/372_G.png,train_372_G,G,Glaucoma,3,train,2048,2048,2.4186518191672235,34.694523334503174,31.860749729449754
+train/Original/373_G.png,train/Ground truth/373_G.png,train_373_G,G,Glaucoma,3,train,2048,2048,6.344702005376746,11.488874673843384,11.833368354765856
+train/Original/374_G.png,train/Ground truth/374_G.png,train_374_G,G,Glaucoma,3,train,2048,2048,8.82017922401377,46.92051410675049,28.733613420994924
+train/Original/375_G.png,train/Ground truth/375_G.png,train_375_G,G,Glaucoma,3,train,2048,2048,9.832306143640778,58.847699880599976,42.093156134246726
+train/Original/376_G.png,train/Ground truth/376_G.png,train_376_G,G,Glaucoma,3,train,2048,2048,2.8342120640172084,41.0887336730957,27.354889060027507
+train/Original/377_G.png,train/Ground truth/377_G.png,train_377_G,G,Glaucoma,3,train,2048,2048,2.998908996141836,40.24640464782715,26.649340315548596
+train/Original/378_G.png,train/Ground truth/378_G.png,train_378_G,G,Glaucoma,3,train,2048,2048,8.12490319935546,41.78123354911804,27.25670658845893
+train/Original/379_G.png,train/Ground truth/379_G.png,train_379_G,G,Glaucoma,3,train,2048,2048,2.8931350707350703,46.130919456481934,28.85784693280858
+train/Original/380_G.png,train/Ground truth/380_G.png,train_380_G,G,Glaucoma,3,train,2048,2048,1.5115947711926765,27.130733013153076,20.403902316869363
+train/Original/381_G.png,train/Ground truth/381_G.png,train_381_G,G,Glaucoma,3,train,2048,2048,7.781724689650163,32.44689917564392,23.390514097447983
+train/Original/382_G.png,train/Ground truth/382_G.png,train_382_G,G,Glaucoma,3,train,2048,2048,8.40235829158786,39.84887981414795,29.852711153538785
+train/Original/383_G.png,train/Ground truth/383_G.png,train_383_G,G,Glaucoma,3,train,2048,2048,3.4460833066395367,45.45668697357178,33.33448850723469
+train/Original/384_G.png,train/Ground truth/384_G.png,train_384_G,G,Glaucoma,3,train,2048,2048,6.4255197046931585,23.326541423797607,20.334102143575173
+train/Original/385_G.png,train/Ground truth/385_G.png,train_385_G,G,Glaucoma,3,train,2048,2048,7.542310714601397,29.252747535705566,23.693958269366625
+train/Original/386_G.png,train/Ground truth/386_G.png,train_386_G,G,Glaucoma,3,train,2048,2048,7.95297312492943,34.52180099487305,24.64940850337947
+train/Original/387_G.png,train/Ground truth/387_G.png,train_387_G,G,Glaucoma,3,train,2048,2048,10.274490937066217,48.4886360168457,34.56042957950071
+train/Original/388_G.png,train/Ground truth/388_G.png,train_388_G,G,Glaucoma,3,train,2048,2048,11.140454147867558,63.62898015975952,42.174276220828176
+train/Original/389_G.png,train/Ground truth/389_G.png,train_389_G,G,Glaucoma,3,train,2048,2048,8.97627972656096,43.2769877910614,26.96238579748862
+train/Original/390_G.png,train/Ground truth/390_G.png,train_390_G,G,Glaucoma,3,train,2048,2048,8.971597666662092,39.906004905700684,24.009535459831238
+train/Original/391_G.png,train/Ground truth/391_G.png,train_391_G,G,Glaucoma,3,train,2048,2048,9.53081338286978,40.0262713432312,29.130940413372493
+train/Original/392_G.png,train/Ground truth/392_G.png,train_392_G,G,Glaucoma,3,train,2048,2048,9.481657429073492,41.86525082588196,26.875549708207107
+train/Original/393_G.png,train/Ground truth/393_G.png,train_393_G,G,Glaucoma,3,train,2048,2048,10.990020235578186,42.24445605278015,29.390080742860544
+train/Original/394_G.png,train/Ground truth/394_G.png,train_394_G,G,Glaucoma,3,train,2048,2048,10.2510709385931,30.59288740158081,20.448666798509144
+train/Original/395_G.png,train/Ground truth/395_G.png,train_395_G,G,Glaucoma,3,train,2048,2048,6.816978842324714,31.549777269363403,22.788467705225745
+train/Original/396_G.png,train/Ground truth/396_G.png,train_396_G,G,Glaucoma,3,train,2048,2048,2.9532701963575505,38.64875054359436,26.049241230434312
+train/Original/397_G.png,train/Ground truth/397_G.png,train_397_G,G,Glaucoma,3,train,2048,2048,8.195234775504787,38.04574465751648,26.334523876751195
+train/Original/398_G.png,train/Ground truth/398_G.png,train_398_G,G,Glaucoma,3,train,2048,2048,8.147259711580547,34.11299133300781,25.579602669657817
+train/Original/399_G.png,train/Ground truth/399_G.png,train_399_G,G,Glaucoma,3,train,2048,2048,6.673736094813647,56.46240758895874,33.22840131314226
+train/Original/400_G.png,train/Ground truth/400_G.png,train_400_G,G,Glaucoma,3,train,2048,2048,8.187411307786306,32.32203006744385,20.486916208032547
+train/Original/401_G.png,train/Ground truth/401_G.png,train_401_G,G,Glaucoma,3,train,2048,2048,10.650332603984626,48.70298218727112,27.947954714714633
+train/Original/402_G.png,train/Ground truth/402_G.png,train_402_G,G,Glaucoma,3,train,2048,2048,7.715873954052709,29.60649824142456,19.504315490075264
+train/Original/403_G.png,train/Ground truth/403_G.png,train_403_G,G,Glaucoma,3,train,2048,2048,9.024262426602037,42.77859163284302,26.614420083750463
+train/Original/404_G.png,train/Ground truth/404_G.png,train_404_G,G,Glaucoma,3,train,2048,2048,7.878263702697437,37.16671013832092,23.30469359619926
+train/Original/405_G.png,train/Ground truth/405_G.png,train_405_G,G,Glaucoma,3,train,2048,2048,7.5871849021632425,26.330003261566162,20.328604990949486
+train/Original/406_G.png,train/Ground truth/406_G.png,train_406_G,G,Glaucoma,3,train,2048,2048,7.273512598271224,23.879931211471558,18.71926768201788
+train/Original/407_G.png,train/Ground truth/407_G.png,train_407_G,G,Glaucoma,3,train,2048,2048,8.68985318591308,40.95030689239502,30.89944014460644
+train/Original/408_G.png,train/Ground truth/408_G.png,train_408_G,G,Glaucoma,3,train,2048,2048,7.516777515257672,41.284767150878906,26.264869820303723
+train/Original/409_G.png,train/Ground truth/409_G.png,train_409_G,G,Glaucoma,3,train,2048,2048,3.0795567032645863,41.49934363365173,28.714453400467434
+train/Original/410_G.png,train/Ground truth/410_G.png,train_410_G,G,Glaucoma,3,train,2048,2048,9.409506082530186,52.16504454612732,36.360249958102656
+train/Original/411_G.png,train/Ground truth/411_G.png,train_411_G,G,Glaucoma,3,train,2048,2048,9.991911888040477,57.4276237487793,36.0643082761562
+train/Original/412_G.png,train/Ground truth/412_G.png,train_412_G,G,Glaucoma,3,train,2048,2048,7.716482400734492,41.88080835342407,27.281969937034802
+train/Original/413_G.png,train/Ground truth/413_G.png,train_413_G,G,Glaucoma,3,train,2048,2048,7.719821453061739,36.166037797927856,24.608752463173133
+train/Original/414_G.png,train/Ground truth/414_G.png,train_414_G,G,Glaucoma,3,train,2048,2048,9.610849748449251,56.949053049087524,32.701257382794104
+train/Original/415_G.png,train/Ground truth/415_G.png,train_415_G,G,Glaucoma,3,train,2048,2048,10.133238936976737,72.74697828292847,43.060715650020015
+train/Original/416_G.png,train/Ground truth/416_G.png,train_416_G,G,Glaucoma,3,train,2048,2048,7.884181694379038,24.308340549468994,19.588666601345054
+train/Original/417_G.png,train/Ground truth/417_G.png,train_417_G,G,Glaucoma,3,train,2048,2048,8.443870539111005,40.84741926193237,30.98475320830506
+train/Original/418_G.png,train/Ground truth/418_G.png,train_418_G,G,Glaucoma,3,train,2048,2048,8.772653095911437,42.80561280250549,30.274597765633207
+train/Original/419_G.png,train/Ground truth/419_G.png,train_419_G,G,Glaucoma,3,train,2048,2048,10.616009234563531,62.343990087509155,40.28794446660876
+train/Original/420_G.png,train/Ground truth/420_G.png,train_420_G,G,Glaucoma,3,train,2048,2048,9.623937606633259,36.419005155563354,23.74292774646605
+train/Original/421_G.png,train/Ground truth/421_G.png,train_421_G,G,Glaucoma,3,train,2048,2048,10.3278565395658,43.02483367919922,28.94748284577331
+train/Original/422_G.png,train/Ground truth/422_G.png,train_422_G,G,Glaucoma,3,train,2048,2048,2.6031978130089897,35.62627148628235,25.408179281300125
+train/Original/423_G.png,train/Ground truth/423_G.png,train_423_G,G,Glaucoma,3,train,2048,2048,2.4990234374990905,34.57510733604431,25.018372219671164
+train/Original/424_G.png,train/Ground truth/424_G.png,train_424_G,G,Glaucoma,3,train,2048,2048,8.115490436433674,51.912150144577026,36.67379060430883
+train/Original/425_G.png,train/Ground truth/425_G.png,train_425_G,G,Glaucoma,3,train,2048,2048,2.5537078380284015,35.876123666763306,25.477171421601863
+train/Original/426_G.png,train/Ground truth/426_G.png,train_426_G,G,Glaucoma,3,train,2048,2048,2.7846751212846357,34.78346037864685,23.60698117034606
+train/Original/427_G.png,train/Ground truth/427_G.png,train_427_G,G,Glaucoma,3,train,2048,2048,9.84662342061506,25.42174792289734,21.493907257302446
+train/Original/428_G.png,train/Ground truth/428_G.png,train_428_G,G,Glaucoma,3,train,2048,2048,10.279634475707779,32.61545443534851,28.480646920340146
+train/Original/429_G.png,train/Ground truth/429_G.png,train_429_G,G,Glaucoma,3,train,2048,2048,10.106364176826899,43.88987493515015,29.47743552377458
+train/Original/430_G.png,train/Ground truth/430_G.png,train_430_G,G,Glaucoma,3,train,2048,2048,9.77379029634881,38.8330192565918,26.373076210689668
+train/Original/431_G.png,train/Ground truth/431_G.png,train_431_G,G,Glaucoma,3,train,2048,2048,9.882596249860338,41.863338470458984,27.97176082159162
+train/Original/432_G.png,train/Ground truth/432_G.png,train_432_G,G,Glaucoma,3,train,2048,2048,9.711540218558183,41.227972984313965,27.516076386838865
+train/Original/433_G.png,train/Ground truth/433_G.png,train_433_G,G,Glaucoma,3,train,2048,2048,9.559756994217365,35.26790118217468,24.67304978004995
+train/Original/434_G.png,train/Ground truth/434_G.png,train_434_G,G,Glaucoma,3,train,2048,2048,8.476875066670745,23.544343948364258,23.122929961784564
+train/Original/435_G.png,train/Ground truth/435_G.png,train_435_G,G,Glaucoma,3,train,2048,2048,11.423911089884996,54.83516335487366,35.20497103840822
+train/Original/436_G.png,train/Ground truth/436_G.png,train_436_G,G,Glaucoma,3,train,2048,2048,9.917134755005238,38.83211803436279,26.943692330890283
+train/Original/437_G.png,train/Ground truth/437_G.png,train_437_G,G,Glaucoma,3,train,2048,2048,9.619632235375317,37.25407338142395,25.46580374547093
+train/Original/438_G.png,train/Ground truth/438_G.png,train_438_G,G,Glaucoma,3,train,2048,2048,4.806986783865569,21.833375453948975,23.335056961028684
+train/Original/439_G.png,train/Ground truth/439_G.png,train_439_G,G,Glaucoma,3,train,2048,2048,5.8336732131610365,33.13317799568176,29.946186100648298
+train/Original/440_G.png,train/Ground truth/440_G.png,train_440_G,G,Glaucoma,3,train,2048,2048,8.213926551695696,34.79760479927063,27.805440097954246
+train/Original/441_G.png,train/Ground truth/441_G.png,train_441_G,G,Glaucoma,3,train,2048,2048,8.76663064931904,38.286171436309814,32.177140204907566
+train/Original/442_G.png,train/Ground truth/442_G.png,train_442_G,G,Glaucoma,3,train,2048,2048,7.940088748057859,39.46089577674866,29.20206679450432
+train/Original/443_G.png,train/Ground truth/443_G.png,train_443_G,G,Glaucoma,3,train,2048,2048,6.95382594947637,34.23890495300293,24.353132629593507
+train/Original/444_G.png,train/Ground truth/444_G.png,train_444_G,G,Glaucoma,3,train,2048,2048,8.902252431811972,34.76876902580261,25.7822728038358
+train/Original/445_G.png,train/Ground truth/445_G.png,train_445_G,G,Glaucoma,3,train,2048,2048,2.9486620421470775,42.05379319190979,30.30785489981254
+train/Original/446_G.png,train/Ground truth/446_G.png,train_446_G,G,Glaucoma,3,train,2048,2048,2.856255768182052,43.05569911003113,29.352749504310406
+train/Original/447_G.png,train/Ground truth/447_G.png,train_447_G,G,Glaucoma,3,train,2048,2048,6.6992068278593715,14.570286989212036,9.326833140876698
+train/Original/448_G.png,train/Ground truth/448_G.png,train_448_G,G,Glaucoma,3,train,2048,2048,6.624079226202413,12.45784616470337,8.909446637197737
+train/Original/449_G.png,train/Ground truth/449_G.png,train_449_G,G,Glaucoma,3,train,2048,2048,7.613300796598196,28.467754364013672,21.676252393840773
+train/Original/450_G.png,train/Ground truth/450_G.png,train_450_G,G,Glaucoma,3,train,2048,2048,7.641952033968662,30.509121894836426,22.299402912961952
+train/Original/451_N.png,train/Ground truth/451_N.png,train_451_N,N,Normal,0,train,2048,2048,3.5868685223899206,45.27487540245056,30.648566665104525
+train/Original/452_N.png,train/Ground truth/452_N.png,train_452_N,N,Normal,0,train,2048,2048,3.266241788777677,41.319645166397095,28.08327276135296
+train/Original/453_N.png,train/Ground truth/453_N.png,train_453_N,N,Normal,0,train,2048,2048,10.215939258081963,40.986998319625854,31.272974724069805
+train/Original/454_N.png,train/Ground truth/454_N.png,train_454_N,N,Normal,0,train,2048,2048,10.39181014771333,41.204750537872314,31.76366345739621
+train/Original/455_N.png,train/Ground truth/455_N.png,train_455_N,N,Normal,0,train,2048,2048,2.9367034429700993,43.52047801017761,28.857499269222682
+train/Original/456_N.png,train/Ground truth/456_N.png,train_456_N,N,Normal,0,train,2048,2048,5.753278015303239,31.572471380233765,25.373174052439538
+train/Original/457_N.png,train/Ground truth/457_N.png,train_457_N,N,Normal,0,train,2048,2048,11.532030973266732,46.052085161209106,33.41885228346892
+train/Original/458_N.png,train/Ground truth/458_N.png,train_458_N,N,Normal,0,train,2048,2048,13.542993691834393,55.6592743396759,37.00446584393382
+train/Original/459_N.png,train/Ground truth/459_N.png,train_459_N,N,Normal,0,train,2048,2048,4.941453933314733,66.16946983337402,38.56487186342431
+train/Original/460_N.png,train/Ground truth/460_N.png,train_460_N,N,Normal,0,train,2048,2048,3.181396960666234,50.83933448791504,30.718574231304487
+train/Original/461_N.png,train/Ground truth/461_N.png,train_461_N,N,Normal,0,train,2048,2048,2.9062047004588294,42.27462291717529,24.337767060668572
+train/Original/462_N.png,train/Ground truth/462_N.png,train_462_N,N,Normal,0,train,2048,2048,3.21243572234539,42.93989419937134,27.927562803353066
+train/Original/463_N.png,train/Ground truth/463_N.png,train_463_N,N,Normal,0,train,2048,2048,2.295389890608874,33.35263919830322,21.852083517471044
+train/Original/464_N.png,train/Ground truth/464_N.png,train_464_N,N,Normal,0,train,2048,2048,2.5362484447059046,33.954182386398315,21.468300894334767
+train/Original/465_N.png,train/Ground truth/465_N.png,train_465_N,N,Normal,0,train,2048,2048,3.320736645926388,55.97254157066345,34.047684324676304
+train/Original/466_N.png,train/Ground truth/466_N.png,train_466_N,N,Normal,0,train,2048,2048,3.427419184109567,54.007925271987915,32.570182251228665
+train/Original/467_N.png,train/Ground truth/467_N.png,train_467_N,N,Normal,0,train,2048,2048,2.5639567365576568,43.08035182952881,27.53976624725186
+train/Original/468_N.png,train/Ground truth/468_N.png,train_468_N,N,Normal,0,train,2048,2048,2.587403535617284,43.27146553993225,26.8725815500702
+train/Original/469_N.png,train/Ground truth/469_N.png,train_469_N,N,Normal,0,train,2048,2048,3.4862155901173537,50.064884424209595,29.884975248487265
+train/Original/470_N.png,train/Ground truth/470_N.png,train_470_N,N,Normal,0,train,2048,2048,2.694099424703154,40.733712911605835,26.19672492556697
+train/Original/471_N.png,train/Ground truth/471_N.png,train_471_N,N,Normal,0,train,2048,2048,3.444141626351154,44.54207491874695,26.57305884511195
+train/Original/472_N.png,train/Ground truth/472_N.png,train_472_N,N,Normal,0,train,2048,2048,3.640660285702097,49.7575421333313,30.204237688656754
+train/Original/473_N.png,train/Ground truth/473_N.png,train_473_N,N,Normal,0,train,2048,2048,3.317153452260527,44.87243843078613,29.60339413623328
+train/Original/474_N.png,train/Ground truth/474_N.png,train_474_N,N,Normal,0,train,2048,2048,3.051995991855563,42.85049819946289,29.27278662212843
+train/Original/475_N.png,train/Ground truth/475_N.png,train_475_N,N,Normal,0,train,2048,2048,3.5978484535266375,48.407416582107544,30.490925602642285
+train/Original/476_N.png,train/Ground truth/476_N.png,train_476_N,N,Normal,0,train,2048,2048,4.26909308235895,53.845043659210205,35.092044468231926
+train/Original/477_N.png,train/Ground truth/477_N.png,train_477_N,N,Normal,0,train,2048,2048,2.8640421340276134,43.65502667427063,27.920920165847555
+train/Original/478_N.png,train/Ground truth/478_N.png,train_478_N,N,Normal,0,train,2048,2048,2.6312974406382637,39.462581157684326,25.19421943251042
+train/Original/479_N.png,train/Ground truth/479_N.png,train_479_N,N,Normal,0,train,2048,2048,2.8793463195524396,41.7983775138855,25.589778860903596
+train/Original/480_N.png,train/Ground truth/480_N.png,train_480_N,N,Normal,0,train,2048,2048,3.51890712644672,42.89933753013611,26.13352376611075
+train/Original/481_N.png,train/Ground truth/481_N.png,train_481_N,N,Normal,0,train,2048,2048,2.743586573651953,47.370612382888794,29.635585706456496
+train/Original/482_N.png,train/Ground truth/482_N.png,train_482_N,N,Normal,0,train,2048,2048,3.3607063101134713,50.8672571182251,30.605988948730637
+train/Original/483_N.png,train/Ground truth/483_N.png,train_483_N,N,Normal,0,train,2048,2048,3.5767311579328975,52.72337460517883,31.4012060569658
+train/Original/484_N.png,train/Ground truth/484_N.png,train_484_N,N,Normal,0,train,2048,2048,3.216339341291132,45.755837202072144,29.219073670528534
+train/Original/485_N.png,train/Ground truth/485_N.png,train_485_N,N,Normal,0,train,2048,2048,3.363814115524292,45.07357740402222,28.57239951723466
+train/Original/486_N.png,train/Ground truth/486_N.png,train_486_N,N,Normal,0,train,2048,2048,3.200008367572991,56.19919443130493,34.34915390276847
+train/Original/487_N.png,train/Ground truth/487_N.png,train_487_N,N,Normal,0,train,2048,2048,3.3333844917215174,59.571731090545654,35.810531232022704
+train/Original/488_N.png,train/Ground truth/488_N.png,train_488_N,N,Normal,0,train,2048,2048,3.757942387791843,56.83654522895813,36.177742032291775
+train/Original/489_N.png,train/Ground truth/489_N.png,train_489_N,N,Normal,0,train,2048,2048,3.494693171169672,53.12096428871155,31.36410772779018
+train/Original/490_N.png,train/Ground truth/490_N.png,train_490_N,N,Normal,0,train,2048,2048,3.7931344005371557,57.502989053726196,37.982562351093506
+train/Original/491_N.png,train/Ground truth/491_N.png,train_491_N,N,Normal,0,train,2048,2048,3.439643982854193,47.491408824920654,29.942989819302394
+train/Original/492_N.png,train/Ground truth/492_N.png,train_492_N,N,Normal,0,train,2048,2048,2.9020919650793076,48.36793327331543,31.036338368001694
+train/Original/493_N.png,train/Ground truth/493_N.png,train_493_N,N,Normal,0,train,2048,2048,2.2938158435553646,38.73438382148743,27.06447808459228
+train/Original/494_N.png,train/Ground truth/494_N.png,train_494_N,N,Normal,0,train,2048,2048,3.3499001778827733,57.65057444572449,32.615675722663454
+train/Original/495_N.png,train/Ground truth/495_N.png,train_495_N,N,Normal,0,train,2048,2048,3.312715951069322,45.35435652732849,29.554940611430485
+train/Original/496_N.png,train/Ground truth/496_N.png,train_496_N,N,Normal,0,train,2048,2048,4.9933400052884735,47.98623251914978,32.550219381844215
+train/Original/497_N.png,train/Ground truth/497_N.png,train_497_N,N,Normal,0,train,2048,2048,6.179027206104308,71.2432279586792,41.25766535440924
+train/Original/498_N.png,train/Ground truth/498_N.png,train_498_N,N,Normal,0,train,2048,2048,5.16611954732798,59.17036437988281,36.14852196384061
+train/Original/499_N.png,train/Ground truth/499_N.png,train_499_N,N,Normal,0,train,2048,2048,4.415693275632066,43.73454833030701,28.19148120166736
+train/Original/500_N.png,train/Ground truth/500_N.png,train_500_N,N,Normal,0,train,2048,2048,3.556684707900729,40.75385141372681,26.402327724922117
+train/Original/501_N.png,train/Ground truth/501_N.png,train_501_N,N,Normal,0,train,2048,2048,3.9898826440875723,43.567269802093506,28.69208760791938
+train/Original/502_N.png,train/Ground truth/502_N.png,train_502_N,N,Normal,0,train,2048,2048,4.896790635058096,57.9022433757782,32.56220386806555
+train/Original/503_N.png,train/Ground truth/503_N.png,train_503_N,N,Normal,0,train,2048,2048,4.309258873483486,44.941962480545044,29.32681116648068
+train/Original/504_N.png,train/Ground truth/504_N.png,train_504_N,N,Normal,0,train,2048,2048,5.851346031274659,67.21311378479004,39.29355702662989
+train/Original/505_N.png,train/Ground truth/505_N.png,train_505_N,N,Normal,0,train,2048,2048,5.492190955435717,62.49958896636963,39.19036030800151
+train/Original/506_N.png,train/Ground truth/506_N.png,train_506_N,N,Normal,0,train,2048,2048,4.045479212754572,43.887213468551636,31.855259239272698
+train/Original/507_N.png,train/Ground truth/507_N.png,train_507_N,N,Normal,0,train,2048,2048,3.519635471267975,42.718175172805786,27.898288233633437
+train/Original/508_N.png,train/Ground truth/508_N.png,train_508_N,N,Normal,0,train,2048,2048,4.10654646571578,45.33970403671265,28.524790824332996
+train/Original/509_N.png,train/Ground truth/509_N.png,train_509_N,N,Normal,0,train,2048,2048,4.503113894969829,51.2138729095459,30.481586368771502
+train/Original/510_N.png,train/Ground truth/510_N.png,train_510_N,N,Normal,0,train,2048,2048,2.746756947811946,34.80074644088745,22.005517147632986
+train/Original/511_N.png,train/Ground truth/511_N.png,train_511_N,N,Normal,0,train,2048,2048,4.484030950206716,46.07639503479004,29.212885928909618
+train/Original/512_N.png,train/Ground truth/512_N.png,train_512_N,N,Normal,0,train,2048,2048,5.794667812891873,58.088298320770264,33.60000217442314
+train/Original/513_N.png,train/Ground truth/513_N.png,train_513_N,N,Normal,0,train,2048,2048,5.129187577417724,54.977333784103394,32.57022476878245
+train/Original/514_N.png,train/Ground truth/514_N.png,train_514_N,N,Normal,0,train,2048,2048,3.9663308404321924,42.402947425842285,26.038362953193786
+train/Original/515_N.png,train/Ground truth/515_N.png,train_515_N,N,Normal,0,train,2048,2048,4.736246984238221,53.75739145278931,32.530993274075804
+train/Original/516_N.png,train/Ground truth/516_N.png,train_516_N,N,Normal,0,train,2048,2048,4.648222442467102,50.71942901611328,31.787620056329757
+train/Original/517_N.png,train/Ground truth/517_N.png,train_517_N,N,Normal,0,train,2048,2048,4.328579708522739,44.87505555152893,26.920681782467707
+train/Original/518_N.png,train/Ground truth/518_N.png,train_518_N,N,Normal,0,train,2048,2048,3.6646113823880455,38.446123361587524,22.149349032294726
+train/Original/519_N.png,train/Ground truth/519_N.png,train_519_N,N,Normal,0,train,2048,2048,3.1084928915374235,38.22079038619995,24.762567510293188
+train/Original/520_N.png,train/Ground truth/520_N.png,train_520_N,N,Normal,0,train,2048,2048,3.761074181580568,41.266024351119995,25.9923294677496
+train/Original/521_N.png,train/Ground truth/521_N.png,train_521_N,N,Normal,0,train,2048,2048,4.65855313989573,49.993531703948975,29.667790194569164
+train/Original/522_N.png,train/Ground truth/522_N.png,train_522_N,N,Normal,0,train,2048,2048,4.379195548733094,48.444226026535034,27.86250477849863
+train/Original/523_N.png,train/Ground truth/523_N.png,train_523_N,N,Normal,0,train,2048,2048,3.1023188438106786,35.798728704452515,22.819426852360074
+train/Original/524_N.png,train/Ground truth/524_N.png,train_524_N,N,Normal,0,train,2048,2048,2.992419144713267,35.480268239974976,23.05380733897469
+train/Original/525_N.png,train/Ground truth/525_N.png,train_525_N,N,Normal,0,train,2048,2048,3.483001034096958,42.67655301094055,25.450907131087146
+train/Original/526_N.png,train/Ground truth/526_N.png,train_526_N,N,Normal,0,train,2048,2048,3.102026572905231,35.34054207801819,25.826115165508718
+train/Original/527_N.png,train/Ground truth/527_N.png,train_527_N,N,Normal,0,train,2048,2048,3.3140822556997023,41.309305906295776,28.338864458842966
+train/Original/528_N.png,train/Ground truth/528_N.png,train_528_N,N,Normal,0,train,2048,2048,4.436264906298163,48.13144063949585,28.51242301840453
+train/Original/529_N.png,train/Ground truth/529_N.png,train_529_N,N,Normal,0,train,2048,2048,2.7637778079551367,36.607750415802,23.007699763399525
+train/Original/530_N.png,train/Ground truth/530_N.png,train_530_N,N,Normal,0,train,2048,2048,3.0902794926039405,36.87586236000061,25.219388999221525
+train/Original/531_N.png,train/Ground truth/531_N.png,train_531_N,N,Normal,0,train,2048,2048,2.980013930074108,33.496710538864136,22.88121519763546
+train/Original/532_N.png,train/Ground truth/532_N.png,train_532_N,N,Normal,0,train,2048,2048,3.6146539127803408,40.5909378528595,25.477524559449847
+train/Original/533_N.png,train/Ground truth/533_N.png,train_533_N,N,Normal,0,train,2048,2048,3.40778850663537,41.05615258216858,27.30222498228087
+train/Original/534_N.png,train/Ground truth/534_N.png,train_534_N,N,Normal,0,train,2048,2048,2.811207866555776,37.365612268447876,24.468065053032685
+train/Original/535_N.png,train/Ground truth/535_N.png,train_535_N,N,Normal,0,train,2048,2048,3.686436924769623,43.82831645011902,28.398710271593185
+train/Original/536_N.png,train/Ground truth/536_N.png,train_536_N,N,Normal,0,train,2048,2048,2.84465326699177,35.19031548500061,25.66496750152767
+train/Original/537_N.png,train/Ground truth/537_N.png,train_537_N,N,Normal,0,train,2048,2048,2.231991665204987,29.50820541381836,21.53169007316662
+train/Original/538_N.png,train/Ground truth/538_N.png,train_538_N,N,Normal,0,train,2048,2048,5.315040509749224,61.63962531089783,35.88926611530232
+train/Original/539_N.png,train/Ground truth/539_N.png,train_539_N,N,Normal,0,train,2048,2048,4.949611868505997,59.63853478431702,35.61467465928703
+train/Original/540_N.png,train/Ground truth/540_N.png,train_540_N,N,Normal,0,train,2048,2048,4.016902082322304,46.76806950569153,27.235820808619074
+train/Original/541_N.png,train/Ground truth/541_N.png,train_541_N,N,Normal,0,train,2048,2048,4.502626026484904,47.89650750160217,27.45586064681446
+train/Original/542_N.png,train/Ground truth/542_N.png,train_542_N,N,Normal,0,train,2048,2048,4.629461378659471,51.223230600357056,30.531342610161442
+train/Original/543_N.png,train/Ground truth/543_N.png,train_543_N,N,Normal,0,train,2048,2048,4.323313037556034,50.5076904296875,31.836982494358047
+train/Original/544_N.png,train/Ground truth/544_N.png,train_544_N,N,Normal,0,train,2048,2048,3.5730610483023497,40.818580865859985,28.721765495951175
+train/Original/545_N.png,train/Ground truth/545_N.png,train_545_N,N,Normal,0,train,2048,2048,3.008326200499539,34.883373498916626,26.03599635659079
+train/Original/546_N.png,train/Ground truth/546_N.png,train_546_N,N,Normal,0,train,2048,2048,2.286531596394923,31.348158836364746,23.101806594037924
+train/Original/547_N.png,train/Ground truth/547_N.png,train_547_N,N,Normal,0,train,2048,2048,3.126546784827042,36.173818588256836,26.083293148550545
+train/Original/548_N.png,train/Ground truth/548_N.png,train_548_N,N,Normal,0,train,2048,2048,3.7310362455445443,41.322062253952026,28.485369953649784
+train/Original/549_N.png,train/Ground truth/549_N.png,train_549_N,N,Normal,0,train,2048,2048,3.066170664424533,41.405747413635254,27.68041413135613
+train/Original/550_N.png,train/Ground truth/550_N.png,train_550_N,N,Normal,0,train,2048,2048,2.879965395486522,38.739479303359985,26.00145706006477
+train/Original/551_N.png,train/Ground truth/551_N.png,train_551_N,N,Normal,0,train,2048,2048,3.358659113418753,44.15077543258667,27.439900520986424
+train/Original/552_N.png,train/Ground truth/552_N.png,train_552_N,N,Normal,0,train,2048,2048,3.5214305517274056,39.34625315666199,25.35716749706127
+train/Original/553_N.png,train/Ground truth/553_N.png,train_553_N,N,Normal,0,train,2048,2048,3.1225011854164677,42.614421129226685,27.1162811864402
+train/Original/554_N.png,train/Ground truth/554_N.png,train_554_N,N,Normal,0,train,2048,2048,3.7734930729127427,39.61367893218994,25.51973430777759
+train/Original/555_N.png,train/Ground truth/555_N.png,train_555_N,N,Normal,0,train,2048,2048,3.558851313294724,38.45319652557373,23.975449721657796
+train/Original/556_N.png,train/Ground truth/556_N.png,train_556_N,N,Normal,0,train,2048,2048,3.9215662277469505,46.32123565673828,27.546863055756337
+train/Original/557_N.png,train/Ground truth/557_N.png,train_557_N,N,Normal,0,train,2048,2048,4.119462574336467,46.52782678604126,29.744695367734796
+train/Original/558_N.png,train/Ground truth/558_N.png,train_558_N,N,Normal,0,train,2048,2048,4.453791562565527,45.245739221572876,28.048613182996412
+train/Original/559_N.png,train/Ground truth/559_N.png,train_559_N,N,Normal,0,train,2048,2048,4.642097166354631,58.478569984436035,34.54052127909355
+train/Original/560_N.png,train/Ground truth/560_N.png,train_560_N,N,Normal,0,train,2048,2048,3.327834439954813,41.74208664894104,28.281435190713445
+train/Original/561_N.png,train/Ground truth/561_N.png,train_561_N,N,Normal,0,train,2048,2048,3.2404142629929424,40.09893584251404,27.148482059536548
+train/Original/562_N.png,train/Ground truth/562_N.png,train_562_N,N,Normal,0,train,2048,2048,2.723853497285745,32.88346338272095,22.10953631159212
+train/Original/563_N.png,train/Ground truth/563_N.png,train_563_N,N,Normal,0,train,2048,2048,3.7949162478475387,44.92675185203552,31.85641477465415
+train/Original/564_N.png,train/Ground truth/564_N.png,train_564_N,N,Normal,0,train,2048,2048,3.7606695649074027,44.27066493034363,31.052347617107387
+train/Original/565_N.png,train/Ground truth/565_N.png,train_565_N,N,Normal,0,train,2048,2048,5.01748290915333,48.326655626297,28.181635652226934
+train/Original/566_N.png,train/Ground truth/566_N.png,train_566_N,N,Normal,0,train,2048,2048,4.330713738439954,47.552716970443726,29.18428525721129
+train/Original/567_N.png,train/Ground truth/567_N.png,train_567_N,N,Normal,0,train,2048,2048,3.491618720846816,41.12109303474426,29.927979023390336
+train/Original/568_N.png,train/Ground truth/568_N.png,train_568_N,N,Normal,0,train,2048,2048,2.896154278502763,37.05368423461914,27.641407931387565
+train/Original/569_N.png,train/Ground truth/569_N.png,train_569_N,N,Normal,0,train,2048,2048,4.011995835587868,53.716774702072144,31.276496687349407
+train/Original/570_N.png,train/Ground truth/570_N.png,train_570_N,N,Normal,0,train,2048,2048,3.637663794193884,50.05790090560913,30.83540137151688
+train/Original/571_N.png,train/Ground truth/571_N.png,train_571_N,N,Normal,0,train,2048,2048,4.507287694970671,45.40417551994324,27.68369498925335
+train/Original/572_N.png,train/Ground truth/572_N.png,train_572_N,N,Normal,0,train,2048,2048,4.660839511604536,50.223214626312256,29.398611439828855
+train/Original/573_N.png,train/Ground truth/573_N.png,train_573_N,N,Normal,0,train,2048,2048,3.784705377111038,43.36353087425232,27.704898491424196
+train/Original/574_N.png,train/Ground truth/574_N.png,train_574_N,N,Normal,0,train,2048,2048,4.323418110779812,45.473172187805176,29.451585251717805
+train/Original/575_N.png,train/Ground truth/575_N.png,train_575_N,N,Normal,0,train,2048,2048,3.5234601945325608,51.13210606575012,31.1334967829409
+train/Original/576_N.png,train/Ground truth/576_N.png,train_576_N,N,Normal,0,train,2048,2048,3.4800377062774714,48.673418045043945,32.262003118565545
+train/Original/577_N.png,train/Ground truth/577_N.png,train_577_N,N,Normal,0,train,2048,2048,4.109919407787345,53.057413816452026,32.08823139738186
+train/Original/578_N.png,train/Ground truth/578_N.png,train_578_N,N,Normal,0,train,2048,2048,4.440086698395987,53.493906021118164,34.14033226826223
+train/Original/579_N.png,train/Ground truth/579_N.png,train_579_N,N,Normal,0,train,2048,2048,3.6448156934993676,44.05152082443237,30.158654494247862
+train/Original/580_N.png,train/Ground truth/580_N.png,train_580_N,N,Normal,0,train,2048,2048,4.7224751924493376,86.56713247299194,45.898024015448264
+train/Original/581_N.png,train/Ground truth/581_N.png,train_581_N,N,Normal,0,train,2048,2048,4.544090509389605,64.29090547561646,36.49150630303718
+train/Original/582_N.png,train/Ground truth/582_N.png,train_582_N,N,Normal,0,train,2048,2048,4.706025223818642,78.1714882850647,42.7348106095263
+train/Original/583_N.png,train/Ground truth/583_N.png,train_583_N,N,Normal,0,train,2048,2048,4.368174338982271,64.74167060852051,37.82791558972909
+train/Original/584_N.png,train/Ground truth/584_N.png,train_584_N,N,Normal,0,train,2048,2048,4.558536951785754,71.18457388877869,39.52660333958116
+train/Original/585_N.png,train/Ground truth/585_N.png,train_585_N,N,Normal,0,train,2048,2048,4.413288561996296,69.47021675109863,39.195393235780344
+train/Original/586_N.png,train/Ground truth/586_N.png,train_586_N,N,Normal,0,train,2048,2048,4.438286734031863,58.94032835960388,32.59186419144509
+train/Original/587_N.png,train/Ground truth/587_N.png,train_587_N,N,Normal,0,train,2048,2048,4.176294298769562,50.904221057891846,29.992794495198634
+train/Original/588_N.png,train/Ground truth/588_N.png,train_588_N,N,Normal,0,train,2048,2048,4.103383031090743,50.24811887741089,29.834364489374167
+train/Original/589_N.png,train/Ground truth/589_N.png,train_589_N,N,Normal,0,train,2048,2048,4.018660079440451,82.20907068252563,43.77705253357593
+train/Original/590_N.png,train/Ground truth/590_N.png,train_590_N,N,Normal,0,train,2048,2048,4.6658990001691905,75.22141718864441,41.49975601621416
+train/Original/591_N.png,train/Ground truth/591_N.png,train_591_N,N,Normal,0,train,2048,2048,5.143749996608676,52.958370208740234,32.847287290101306
+train/Original/592_N.png,train/Ground truth/592_N.png,train_592_N,N,Normal,0,train,2048,2048,5.641617982915477,54.75355863571167,34.17078611031398
+train/Original/593_N.png,train/Ground truth/593_N.png,train_593_N,N,Normal,0,train,2048,2048,5.221825402591776,59.63091421127319,35.601640430545366
+train/Original/594_N.png,train/Ground truth/594_N.png,train_594_N,N,Normal,0,train,2048,2048,6.209663024310828,59.50167798995972,37.20654373511268
+train/Original/595_N.png,train/Ground truth/595_N.png,train_595_N,N,Normal,0,train,2048,2048,5.901728843573835,65.82214999198914,36.57751112529647
+train/Original/596_N.png,train/Ground truth/596_N.png,train_596_N,N,Normal,0,train,2048,2048,4.281444486457758,46.80143713951111,33.879150394309775
+train/Original/597_N.png,train/Ground truth/597_N.png,train_597_N,N,Normal,0,train,2048,2048,5.5874342692904975,67.38074064254761,39.48606211768577
+train/Original/598_N.png,train/Ground truth/598_N.png,train_598_N,N,Normal,0,train,2048,2048,6.052140349637739,64.89825105667114,35.914684075385885
+train/Original/599_N.png,train/Ground truth/599_N.png,train_599_N,N,Normal,0,train,2048,2048,5.915294317660425,54.71483588218689,32.77751772693583
+train/Original/600_N.png,train/Ground truth/600_N.png,train_600_N,N,Normal,0,train,2048,2048,4.763272768308298,46.712618350982666,29.88268132571184

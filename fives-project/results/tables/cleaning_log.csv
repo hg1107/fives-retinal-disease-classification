@@ -1,0 +1,8 @@
+split,file,reason,detail
+train,132_A.png,exact_duplicate,md5=35dc54e982bf1fe229d2221bbeaeae34; kept train/39_A.png
+train,97_A.png,exact_duplicate,md5=43b47604628b30acdc20761d21b72daf; kept train/53_A.png
+train,134_A.png,exact_duplicate,md5=56115f6921063b22a53e6b9f6cf96fd1; kept train/55_A.png
+train,118_A.png,exact_duplicate,md5=942ff7e5a25cff7e5adb834660a84177; kept train/34_A.png
+train,121_A.png,exact_duplicate,md5=a58a62ab138d0543e3255aea7cf0cf06; kept train/61_A.png
+test,48_A.png,exact_duplicate,md5=bcccf20f77be8c137506c321cc8b9915; kept test/32_A.png
+train,80_A.png,near_duplicate_crosses_split,"pair with test/21_A.png (phash 6, corr 0.9937); train copy removed"

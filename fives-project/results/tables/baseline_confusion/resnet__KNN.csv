@@ -1,0 +1,5 @@
+,pred_Normal,pred_AMD,pred_Diabetic Retinopathy,pred_Glaucoma
+true_Normal,26,3,2,19
+true_AMD,6,35,8,0
+true_Diabetic Retinopathy,14,11,23,2
+true_Glaucoma,18,4,6,22

@@ -1,0 +1,10 @@
+file_a,file_b,label_a,label_b,phash_dist,thumb_corr,cross_split,same_md5
+test/32_A.png,test/48_A.png,AMD,AMD,0,1.0,False,True
+train/134_A.png,train/55_A.png,AMD,AMD,0,1.0,False,True
+train/118_A.png,train/34_A.png,AMD,AMD,0,1.0,False,True
+train/132_A.png,train/39_A.png,AMD,AMD,0,1.0,False,True
+train/121_A.png,train/61_A.png,AMD,AMD,0,1.0,False,True
+train/53_A.png,train/97_A.png,AMD,AMD,0,1.0,False,True
+test/22_A.png,test/23_A.png,AMD,AMD,0,0.9986,False,False
+test/35_A.png,test/9_A.png,AMD,AMD,2,0.9953,False,False
+test/21_A.png,train/80_A.png,AMD,AMD,6,0.9937,True,False

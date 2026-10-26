@@ -1,0 +1,13 @@
+true,predicted,mean_rate_all_24_models,rate_selected_model,count_selected_model
+Normal,Glaucoma,0.4866666666666666,0.38,19
+Diabetic Retinopathy,AMD,0.23166666666666672,0.16,8
+Glaucoma,Normal,0.18666666666666668,0.14,7
+AMD,Diabetic Retinopathy,0.18537414965986396,0.24489795918367346,12
+Glaucoma,Diabetic Retinopathy,0.13333333333333336,0.16,8
+Diabetic Retinopathy,Normal,0.12833333333333338,0.08,4
+Normal,Diabetic Retinopathy,0.10083333333333334,0.3,15
+Normal,AMD,0.09000000000000002,0.12,6
+AMD,Normal,0.08588435374149661,0.061224489795918366,3
+Diabetic Retinopathy,Glaucoma,0.08250000000000003,0.04,2
+Glaucoma,AMD,0.053333333333333344,0.04,2
+AMD,Glaucoma,0.041666666666666664,0.02040816326530612,1

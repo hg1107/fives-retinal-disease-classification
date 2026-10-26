@@ -1,0 +1,19 @@
+# environment
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# raw dataset lives outside the repo (config.DATASET_PATH); never commit images
+dataset/
+*.png.bak
+
+# regenerable / large intermediates
+data/processed/cache/
+data/processed/*.npy
+
+# editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

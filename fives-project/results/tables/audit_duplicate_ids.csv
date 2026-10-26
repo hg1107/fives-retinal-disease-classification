@@ -1,0 +1,401 @@
+split,file,id,letter,label
+test,1_A.png,1,A,AMD
+train,1_A.png,1,A,AMD
+train,10_A.png,10,A,AMD
+test,10_A.png,10,A,AMD
+train,100_A.png,100,A,AMD
+test,100_D.png,100,D,Diabetic Retinopathy
+train,101_A.png,101,A,AMD
+test,101_G.png,101,G,Glaucoma
+train,102_A.png,102,A,AMD
+test,102_G.png,102,G,Glaucoma
+test,103_G.png,103,G,Glaucoma
+train,103_A.png,103,A,AMD
+test,104_G.png,104,G,Glaucoma
+train,104_A.png,104,A,AMD
+test,105_G.png,105,G,Glaucoma
+train,105_A.png,105,A,AMD
+test,106_G.png,106,G,Glaucoma
+train,106_A.png,106,A,AMD
+test,107_G.png,107,G,Glaucoma
+train,107_A.png,107,A,AMD
+train,108_A.png,108,A,AMD
+test,108_G.png,108,G,Glaucoma
+test,109_G.png,109,G,Glaucoma
+train,109_A.png,109,A,AMD
+test,11_A.png,11,A,AMD
+train,11_A.png,11,A,AMD
+test,110_G.png,110,G,Glaucoma
+train,110_A.png,110,A,AMD
+test,111_G.png,111,G,Glaucoma
+train,111_A.png,111,A,AMD
+test,112_G.png,112,G,Glaucoma
+train,112_A.png,112,A,AMD
+test,113_G.png,113,G,Glaucoma
+train,113_A.png,113,A,AMD
+train,114_A.png,114,A,AMD
+test,114_G.png,114,G,Glaucoma
+test,115_G.png,115,G,Glaucoma
+train,115_A.png,115,A,AMD
+test,116_G.png,116,G,Glaucoma
+train,116_A.png,116,A,AMD
+test,117_G.png,117,G,Glaucoma
+train,117_A.png,117,A,AMD
+test,118_G.png,118,G,Glaucoma
+train,118_A.png,118,A,AMD
+test,119_G.png,119,G,Glaucoma
+train,119_A.png,119,A,AMD
+train,12_A.png,12,A,AMD
+test,12_A.png,12,A,AMD
+test,120_G.png,120,G,Glaucoma
+train,120_A.png,120,A,AMD
+train,121_A.png,121,A,AMD
+test,121_G.png,121,G,Glaucoma
+test,122_G.png,122,G,Glaucoma
+train,122_A.png,122,A,AMD
+test,123_G.png,123,G,Glaucoma
+train,123_A.png,123,A,AMD
+test,124_G.png,124,G,Glaucoma
+train,124_A.png,124,A,AMD
+test,125_G.png,125,G,Glaucoma
+train,125_A.png,125,A,AMD
+test,126_G.png,126,G,Glaucoma
+train,126_A.png,126,A,AMD
+test,127_G.png,127,G,Glaucoma
+train,127_A.png,127,A,AMD
+test,128_G.png,128,G,Glaucoma
+train,128_A.png,128,A,AMD
+train,129_A.png,129,A,AMD
+test,129_G.png,129,G,Glaucoma
+test,13_A.png,13,A,AMD
+train,13_A.png,13,A,AMD
+test,130_G.png,130,G,Glaucoma
+train,130_A.png,130,A,AMD
+train,131_A.png,131,A,AMD
+test,131_G.png,131,G,Glaucoma
+train,132_A.png,132,A,AMD
+test,132_G.png,132,G,Glaucoma
+train,133_A.png,133,A,AMD
+test,133_G.png,133,G,Glaucoma
+test,134_G.png,134,G,Glaucoma
+train,134_A.png,134,A,AMD
+train,135_A.png,135,A,AMD
+test,135_G.png,135,G,Glaucoma
+train,136_A.png,136,A,AMD
+test,136_G.png,136,G,Glaucoma
+train,137_A.png,137,A,AMD
+test,137_G.png,137,G,Glaucoma
+train,138_A.png,138,A,AMD
+test,138_G.png,138,G,Glaucoma
+test,139_G.png,139,G,Glaucoma
+train,139_A.png,139,A,AMD
+train,14_A.png,14,A,AMD
+test,14_A.png,14,A,AMD
+train,140_A.png,140,A,AMD
+test,140_G.png,140,G,Glaucoma
+train,141_A.png,141,A,AMD
+test,141_G.png,141,G,Glaucoma
+train,142_A.png,142,A,AMD
+test,142_G.png,142,G,Glaucoma
+test,143_G.png,143,G,Glaucoma
+train,143_A.png,143,A,AMD
+test,144_G.png,144,G,Glaucoma
+train,144_A.png,144,A,AMD
+test,145_G.png,145,G,Glaucoma
+train,145_A.png,145,A,AMD
+test,146_G.png,146,G,Glaucoma
+train,146_A.png,146,A,AMD
+train,147_A.png,147,A,AMD
+test,147_G.png,147,G,Glaucoma
+train,148_A.png,148,A,AMD
+test,148_G.png,148,G,Glaucoma
+test,149_G.png,149,G,Glaucoma
+train,149_A.png,149,A,AMD
+test,15_A.png,15,A,AMD
+train,15_A.png,15,A,AMD
+train,150_A.png,150,A,AMD
+test,150_G.png,150,G,Glaucoma
+test,151_N.png,151,N,Normal
+train,151_D.png,151,D,Diabetic Retinopathy
+test,152_N.png,152,N,Normal
+train,152_D.png,152,D,Diabetic Retinopathy
+test,153_N.png,153,N,Normal
+train,153_D.png,153,D,Diabetic Retinopathy
+train,154_D.png,154,D,Diabetic Retinopathy
+test,154_N.png,154,N,Normal
+test,155_N.png,155,N,Normal
+train,155_D.png,155,D,Diabetic Retinopathy
+test,156_N.png,156,N,Normal
+train,156_D.png,156,D,Diabetic Retinopathy
+test,157_N.png,157,N,Normal
+train,157_D.png,157,D,Diabetic Retinopathy
+test,158_N.png,158,N,Normal
+train,158_D.png,158,D,Diabetic Retinopathy
+test,159_N.png,159,N,Normal
+train,159_D.png,159,D,Diabetic Retinopathy
+train,16_A.png,16,A,AMD
+test,16_A.png,16,A,AMD
+test,160_N.png,160,N,Normal
+train,160_D.png,160,D,Diabetic Retinopathy
+train,161_D.png,161,D,Diabetic Retinopathy
+test,161_N.png,161,N,Normal
+train,162_D.png,162,D,Diabetic Retinopathy
+test,162_N.png,162,N,Normal
+test,163_N.png,163,N,Normal
+train,163_D.png,163,D,Diabetic Retinopathy
+train,164_D.png,164,D,Diabetic Retinopathy
+test,164_N.png,164,N,Normal
+train,165_D.png,165,D,Diabetic Retinopathy
+test,165_N.png,165,N,Normal
+train,166_D.png,166,D,Diabetic Retinopathy
+test,166_N.png,166,N,Normal
+test,167_N.png,167,N,Normal
+train,167_D.png,167,D,Diabetic Retinopathy
+test,168_N.png,168,N,Normal
+train,168_D.png,168,D,Diabetic Retinopathy
+train,169_D.png,169,D,Diabetic Retinopathy
+test,169_N.png,169,N,Normal
+test,17_A.png,17,A,AMD
+train,17_A.png,17,A,AMD
+train,170_D.png,170,D,Diabetic Retinopathy
+test,170_N.png,170,N,Normal
+test,171_N.png,171,N,Normal
+train,171_D.png,171,D,Diabetic Retinopathy
+test,172_N.png,172,N,Normal
+train,172_D.png,172,D,Diabetic Retinopathy
+train,173_D.png,173,D,Diabetic Retinopathy
+test,173_N.png,173,N,Normal
+test,174_N.png,174,N,Normal
+train,174_D.png,174,D,Diabetic Retinopathy
+train,175_D.png,175,D,Diabetic Retinopathy
+test,175_N.png,175,N,Normal
+train,176_D.png,176,D,Diabetic Retinopathy
+test,176_N.png,176,N,Normal
+train,177_D.png,177,D,Diabetic Retinopathy
+test,177_N.png,177,N,Normal
+train,178_D.png,178,D,Diabetic Retinopathy
+test,178_N.png,178,N,Normal
+train,179_D.png,179,D,Diabetic Retinopathy
+test,179_N.png,179,N,Normal
+test,18_A.png,18,A,AMD
+train,18_A.png,18,A,AMD
+test,180_N.png,180,N,Normal
+train,180_D.png,180,D,Diabetic Retinopathy
+test,181_N.png,181,N,Normal
+train,181_D.png,181,D,Diabetic Retinopathy
+test,182_N.png,182,N,Normal
+train,182_D.png,182,D,Diabetic Retinopathy
+train,183_D.png,183,D,Diabetic Retinopathy
+test,183_N.png,183,N,Normal
+test,184_N.png,184,N,Normal
+train,184_D.png,184,D,Diabetic Retinopathy
+train,185_D.png,185,D,Diabetic Retinopathy
+test,185_N.png,185,N,Normal
+test,186_N.png,186,N,Normal
+train,186_D.png,186,D,Diabetic Retinopathy
+test,187_N.png,187,N,Normal
+train,187_D.png,187,D,Diabetic Retinopathy
+train,188_D.png,188,D,Diabetic Retinopathy
+test,188_N.png,188,N,Normal
+test,189_N.png,189,N,Normal
+train,189_D.png,189,D,Diabetic Retinopathy
+train,19_A.png,19,A,AMD
+test,19_A.png,19,A,AMD
+test,190_N.png,190,N,Normal
+train,190_D.png,190,D,Diabetic Retinopathy
+test,191_N.png,191,N,Normal
+train,191_D.png,191,D,Diabetic Retinopathy
+train,192_D.png,192,D,Diabetic Retinopathy
+test,192_N.png,192,N,Normal
+train,193_D.png,193,D,Diabetic Retinopathy
+test,193_N.png,193,N,Normal
+train,194_D.png,194,D,Diabetic Retinopathy
+test,194_N.png,194,N,Normal
+test,195_N.png,195,N,Normal
+train,195_D.png,195,D,Diabetic Retinopathy
+train,196_D.png,196,D,Diabetic Retinopathy
+test,196_N.png,196,N,Normal
+train,197_D.png,197,D,Diabetic Retinopathy
+test,197_N.png,197,N,Normal
+test,198_N.png,198,N,Normal
+train,198_D.png,198,D,Diabetic Retinopathy
+train,199_D.png,199,D,Diabetic Retinopathy
+test,199_N.png,199,N,Normal
+test,2_A.png,2,A,AMD
+train,2_A.png,2,A,AMD
+train,20_A.png,20,A,AMD
+test,20_A.png,20,A,AMD
+train,200_D.png,200,D,Diabetic Retinopathy
+test,200_N.png,200,N,Normal
+train,21_A.png,21,A,AMD
+test,21_A.png,21,A,AMD
+test,22_A.png,22,A,AMD
+train,22_A.png,22,A,AMD
+test,23_A.png,23,A,AMD
+train,23_A.png,23,A,AMD
+test,24_A.png,24,A,AMD
+train,24_A.png,24,A,AMD
+test,25_A.png,25,A,AMD
+train,25_A.png,25,A,AMD
+train,26_A.png,26,A,AMD
+test,26_A.png,26,A,AMD
+test,27_A.png,27,A,AMD
+train,27_A.png,27,A,AMD
+train,28_A.png,28,A,AMD
+test,28_A.png,28,A,AMD
+train,29_A.png,29,A,AMD
+test,29_A.png,29,A,AMD
+train,3_A.png,3,A,AMD
+test,3_A.png,3,A,AMD
+test,30_A.png,30,A,AMD
+train,30_A.png,30,A,AMD
+test,31_A.png,31,A,AMD
+train,31_A.png,31,A,AMD
+test,32_A.png,32,A,AMD
+train,32_A.png,32,A,AMD
+train,33_A.png,33,A,AMD
+test,33_A.png,33,A,AMD
+train,34_A.png,34,A,AMD
+test,34_A.png,34,A,AMD
+train,35_A.png,35,A,AMD
+test,35_A.png,35,A,AMD
+train,36_A.png,36,A,AMD
+test,36_A.png,36,A,AMD
+test,37_A.png,37,A,AMD
+train,37_A.png,37,A,AMD
+test,38_A.png,38,A,AMD
+train,38_A.png,38,A,AMD
+test,39_A.png,39,A,AMD
+train,39_A.png,39,A,AMD
+train,4_A.png,4,A,AMD
+test,4_A.png,4,A,AMD
+test,40_A.png,40,A,AMD
+train,40_A.png,40,A,AMD
+train,41_A.png,41,A,AMD
+test,41_A.png,41,A,AMD
+train,42_A.png,42,A,AMD
+test,42_A.png,42,A,AMD
+train,43_A.png,43,A,AMD
+test,43_A.png,43,A,AMD
+train,44_A.png,44,A,AMD
+test,44_A.png,44,A,AMD
+test,45_A.png,45,A,AMD
+train,45_A.png,45,A,AMD
+train,46_A.png,46,A,AMD
+test,46_A.png,46,A,AMD
+train,47_A.png,47,A,AMD
+test,47_A.png,47,A,AMD
+test,48_A.png,48,A,AMD
+train,48_A.png,48,A,AMD
+train,49_A.png,49,A,AMD
+test,49_A.png,49,A,AMD
+test,5_A.png,5,A,AMD
+train,5_A.png,5,A,AMD
+test,50_A.png,50,A,AMD
+train,50_A.png,50,A,AMD
+train,51_A.png,51,A,AMD
+test,51_D.png,51,D,Diabetic Retinopathy
+test,52_D.png,52,D,Diabetic Retinopathy
+train,52_A.png,52,A,AMD
+test,53_D.png,53,D,Diabetic Retinopathy
+train,53_A.png,53,A,AMD
+test,54_D.png,54,D,Diabetic Retinopathy
+train,54_A.png,54,A,AMD
+test,55_D.png,55,D,Diabetic Retinopathy
+train,55_A.png,55,A,AMD
+train,56_A.png,56,A,AMD
+test,56_D.png,56,D,Diabetic Retinopathy
+train,57_A.png,57,A,AMD
+test,57_D.png,57,D,Diabetic Retinopathy
+test,58_D.png,58,D,Diabetic Retinopathy
+train,58_A.png,58,A,AMD
+train,59_A.png,59,A,AMD
+test,59_D.png,59,D,Diabetic Retinopathy
+test,6_A.png,6,A,AMD
+train,6_A.png,6,A,AMD
+test,60_D.png,60,D,Diabetic Retinopathy
+train,60_A.png,60,A,AMD
+test,61_D.png,61,D,Diabetic Retinopathy
+train,61_A.png,61,A,AMD
+test,62_D.png,62,D,Diabetic Retinopathy
+train,62_A.png,62,A,AMD
+test,63_D.png,63,D,Diabetic Retinopathy
+train,63_A.png,63,A,AMD
+test,64_D.png,64,D,Diabetic Retinopathy
+train,64_A.png,64,A,AMD
+train,65_A.png,65,A,AMD
+test,65_D.png,65,D,Diabetic Retinopathy
+train,66_A.png,66,A,AMD
+test,66_D.png,66,D,Diabetic Retinopathy
+test,67_D.png,67,D,Diabetic Retinopathy
+train,67_A.png,67,A,AMD
+train,68_A.png,68,A,AMD
+test,68_D.png,68,D,Diabetic Retinopathy
+train,69_A.png,69,A,AMD
+test,69_D.png,69,D,Diabetic Retinopathy
+train,7_A.png,7,A,AMD
+test,7_A.png,7,A,AMD
+test,70_D.png,70,D,Diabetic Retinopathy
+train,70_A.png,70,A,AMD
+train,71_A.png,71,A,AMD
+test,71_D.png,71,D,Diabetic Retinopathy
+train,72_A.png,72,A,AMD
+test,72_D.png,72,D,Diabetic Retinopathy
+train,73_A.png,73,A,AMD
+test,73_D.png,73,D,Diabetic Retinopathy
+train,74_A.png,74,A,AMD
+test,74_D.png,74,D,Diabetic Retinopathy
+train,75_A.png,75,A,AMD
+test,75_D.png,75,D,Diabetic Retinopathy
+train,76_A.png,76,A,AMD
+test,76_D.png,76,D,Diabetic Retinopathy
+train,77_A.png,77,A,AMD
+test,77_D.png,77,D,Diabetic Retinopathy
+test,78_D.png,78,D,Diabetic Retinopathy
+train,78_A.png,78,A,AMD
+train,79_A.png,79,A,AMD
+test,79_D.png,79,D,Diabetic Retinopathy
+test,8_A.png,8,A,AMD
+train,8_A.png,8,A,AMD
+train,80_A.png,80,A,AMD
+test,80_D.png,80,D,Diabetic Retinopathy
+train,81_A.png,81,A,AMD
+test,81_D.png,81,D,Diabetic Retinopathy
+train,82_A.png,82,A,AMD
+test,82_D.png,82,D,Diabetic Retinopathy
+train,83_A.png,83,A,AMD
+test,83_D.png,83,D,Diabetic Retinopathy
+train,84_A.png,84,A,AMD
+test,84_D.png,84,D,Diabetic Retinopathy
+train,85_A.png,85,A,AMD
+test,85_D.png,85,D,Diabetic Retinopathy
+test,86_D.png,86,D,Diabetic Retinopathy
+train,86_A.png,86,A,AMD
+test,87_D.png,87,D,Diabetic Retinopathy
+train,87_A.png,87,A,AMD
+train,88_A.png,88,A,AMD
+test,88_D.png,88,D,Diabetic Retinopathy
+test,89_D.png,89,D,Diabetic Retinopathy
+train,89_A.png,89,A,AMD
+test,9_A.png,9,A,AMD
+train,9_A.png,9,A,AMD
+test,90_D.png,90,D,Diabetic Retinopathy
+train,90_A.png,90,A,AMD
+train,91_A.png,91,A,AMD
+test,91_D.png,91,D,Diabetic Retinopathy
+test,92_D.png,92,D,Diabetic Retinopathy
+train,92_A.png,92,A,AMD
+test,93_D.png,93,D,Diabetic Retinopathy
+train,93_A.png,93,A,AMD
+test,94_D.png,94,D,Diabetic Retinopathy
+train,94_A.png,94,A,AMD
+test,95_D.png,95,D,Diabetic Retinopathy
+train,95_A.png,95,A,AMD
+train,96_A.png,96,A,AMD
+test,96_D.png,96,D,Diabetic Retinopathy
+train,97_A.png,97,A,AMD
+test,97_D.png,97,D,Diabetic Retinopathy
+test,98_D.png,98,D,Diabetic Retinopathy
+train,98_A.png,98,A,AMD
+train,99_A.png,99,A,AMD
+test,99_D.png,99,D,Diabetic Retinopathy

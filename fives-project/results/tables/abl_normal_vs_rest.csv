@@ -1,0 +1,3 @@
+split,auc_normal_vs_rest,precision,recall,f1,n_normal,n_pred_normal
+"CV (train, out-of-fold)",0.9386636636636636,0.7365269461077845,0.82,0.7760252365930599,150,167
+test,0.7924832214765101,0.48,0.24,0.32,50,25

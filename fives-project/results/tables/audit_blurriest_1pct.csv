@@ -1,0 +1,9 @@
+split,name,label,blur_lapvar
+test,144_G.png,Glaucoma,1.9961853025806704
+test,145_G.png,Glaucoma,1.1316468715662609
+train,215_D.png,Diabetic Retinopathy,2.0708985328674316
+train,369_G.png,Glaucoma,2.075425862514237
+train,370_G.png,Glaucoma,2.0304090976096063
+train,371_G.png,Glaucoma,1.992951392106761
+train,380_G.png,Glaucoma,1.5115947711926765
+train,537_N.png,Normal,2.231991665204987

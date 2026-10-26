@@ -1,0 +1,7 @@
+folder,split,kind,ext,n_files
+.,none,other,.xlsx,1
+test/Ground truth,test,mask,.png,200
+test/Original,test,original,.png,200
+train/Ground truth,train,mask,.png,600
+train/Original,train,original,.db,1
+train/Original,train,original,.png,600

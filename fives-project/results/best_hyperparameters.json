@@ -1,0 +1,47 @@
+{
+  "experiment": "handcrafted_norm",
+  "n_iter": 40,
+  "bagging_base_model": "SVM_RBF",
+  "models": {
+    "LogisticRegression": {
+      "best_inner_cv_f1": 0.7147248717396154,
+      "params": {
+        "clf__C": 0.6403036652671171,
+        "clf__class_weight": null,
+        "corr__threshold": 0.95,
+        "scale": "RobustScaler",
+        "select__k": "all"
+      }
+    },
+    "SVM_RBF": {
+      "best_inner_cv_f1": 0.7241890560671311,
+      "params": {
+        "clf__C": 423.9491473869762,
+        "clf__class_weight": null,
+        "clf__gamma": 0.0008160948743089922,
+        "corr__threshold": 0.85,
+        "scale": "StandardScaler",
+        "select__k": 40
+      }
+    },
+    "RandomForest": {
+      "best_inner_cv_f1": 0.6892402493238419,
+      "params": {
+        "select__k": 60,
+        "scale": "StandardScaler",
+        "corr__threshold": 0.98,
+        "clf__n_estimators": 500,
+        "clf__min_samples_split": 4,
+        "clf__min_samples_leaf": 2,
+        "clf__max_features": 0.5,
+        "clf__max_depth": null
+      }
+    }
+  },
+  "final_model": {
+    "candidate": "voting",
+    "cv_f1": 0.7208464388875477,
+    "cv_f1_std": 0.04440740653777269,
+    "cv_estimate": "nested 5-fold CV"
+  }
+}

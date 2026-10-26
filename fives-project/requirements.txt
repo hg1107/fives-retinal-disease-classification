@@ -1,0 +1,22 @@
+# Direct dependencies actually imported by src/ and scripts/ (pinned). Python 3.12 (uv venv --python 3.12).
+# streamlit: app/app.py. tabulate: pandas.to_markdown; ipykernel/nbformat/nbconvert: only to (re)execute notebooks/fives_analysis.ipynb.
+numpy==2.5.4
+pandas==3.1.0
+scikit-learn==1.9.1
+scipy==1.18.1
+matplotlib==3.11.2
+seaborn==0.13.2
+scikit-image==0.26.0
+opencv-python-headless==5.0.0.93
+pillow==13.0.0
+imagehash==4.3.2
+tqdm==4.70.1
+joblib==1.6.0
+xgboost==3.4.1
+torch==2.14.1
+torchvision==0.29.1
+tabulate==0.10.0
+ipykernel==7.4.0
+nbformat==5.11.1
+nbconvert==7.17.2
+streamlit==1.66.1

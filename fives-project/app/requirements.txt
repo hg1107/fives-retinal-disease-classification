@@ -1,0 +1,11 @@
+# Inference-only dependencies for app/app.py (Streamlit Community Cloud). Versions match the root requirements.txt;
+# scikit-learn must equal the version that pickled models/best_model.joblib. No torch/xgboost: the saved model needs neither.
+numpy==2.5.4
+pandas==3.1.0
+scikit-learn==1.9.1
+scipy==1.18.1
+scikit-image==0.26.0
+opencv-python-headless==5.0.0.93
+matplotlib==3.11.2
+joblib==1.6.0
+streamlit==1.66.1
